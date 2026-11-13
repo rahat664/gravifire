@@ -51,3 +51,12 @@ psidata/PSI-26/*
 !psidata/PSI-26/metadata/
 psidata/download_log.tsv
 Gravifier_research/evidence_store/anchors/
+
+# Local recording exports stay on disk; version their editor handover metadata.
+/submission-video/
+/submission-footage/*
+!/submission-footage/*.md
+!/submission-footage/*.json
+!/submission-footage/short-showcase-work-*/
+/submission-footage/short-showcase-work-*/*
+!/submission-footage/short-showcase-work-*/edit-validation.json
