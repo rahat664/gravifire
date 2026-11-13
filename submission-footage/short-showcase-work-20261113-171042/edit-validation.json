@@ -1,0 +1,231 @@
+{
+  "source": "D:\\gravifire\\submission-footage\\gravifire-complete-raw-master.mp4",
+  "sourceSha256": "42304c34932b2fd4611fb74b7286e87836885c47e659df6321f8d50b3a739dfc",
+  "output": "D:\\gravifire\\submission-footage\\GRAVIFIRE_Short_Showcase.mp4",
+  "segments": [
+    {
+      "scene": 1,
+      "label": "Home",
+      "sourceStartSeconds": 0,
+      "sourceEndSeconds": 5,
+      "frames": 125,
+      "clip": "D:\\gravifire\\submission-footage\\short-showcase-work-20261113-171042\\01.mp4"
+    },
+    {
+      "scene": 2,
+      "label": "Dashboard",
+      "sourceStartSeconds": 11,
+      "sourceEndSeconds": 17,
+      "frames": 150,
+      "clip": "D:\\gravifire\\submission-footage\\short-showcase-work-20261113-171042\\02.mp4"
+    },
+    {
+      "scene": 3,
+      "label": "Experiment Explorer",
+      "sourceStartSeconds": 45,
+      "sourceEndSeconds": 50,
+      "frames": 125,
+      "clip": "D:\\gravifire\\submission-footage\\short-showcase-work-20261113-171042\\03.mp4"
+    },
+    {
+      "scene": 4,
+      "label": "Investigation Ranking",
+      "sourceStartSeconds": 103,
+      "sourceEndSeconds": 110,
+      "frames": 175,
+      "clip": "D:\\gravifire\\submission-footage\\short-showcase-work-20261113-171042\\04.mp4"
+    },
+    {
+      "scene": 5,
+      "label": "Applicability",
+      "sourceStartSeconds": 130,
+      "sourceEndSeconds": 137,
+      "frames": 175,
+      "clip": "D:\\gravifire\\submission-footage\\short-showcase-work-20261113-171042\\05.mp4"
+    },
+    {
+      "scene": 6,
+      "label": "BASS-II Evidence",
+      "sourceStartSeconds": 169,
+      "sourceEndSeconds": 176,
+      "frames": 175,
+      "clip": "D:\\gravifire\\submission-footage\\short-showcase-work-20261113-171042\\06.mp4"
+    },
+    {
+      "scene": 7,
+      "label": "Virtual Lab",
+      "sourceStartSeconds": 185,
+      "sourceEndSeconds": 192,
+      "frames": 175,
+      "clip": "D:\\gravifire\\submission-footage\\short-showcase-work-20261113-171042\\07.mp4"
+    },
+    {
+      "scene": 8,
+      "label": "Evidence DNA",
+      "sourceStartSeconds": 202,
+      "sourceEndSeconds": 208,
+      "frames": 150,
+      "clip": "D:\\gravifire\\submission-footage\\short-showcase-work-20261113-171042\\08.mp4"
+    },
+    {
+      "scene": 9,
+      "label": "EMBER",
+      "sourceStartSeconds": 241,
+      "sourceEndSeconds": 248,
+      "frames": 175,
+      "clip": "D:\\gravifire\\submission-footage\\short-showcase-work-20261113-171042\\09.mp4"
+    },
+    {
+      "scene": 10,
+      "label": "EMBER Limitations",
+      "sourceStartSeconds": 259,
+      "sourceEndSeconds": 265,
+      "frames": 150,
+      "clip": "D:\\gravifire\\submission-footage\\short-showcase-work-20261113-171042\\10.mp4"
+    },
+    {
+      "scene": 11,
+      "label": "Mission Control",
+      "sourceStartSeconds": 299,
+      "sourceEndSeconds": 305,
+      "frames": 150,
+      "clip": "D:\\gravifire\\submission-footage\\short-showcase-work-20261113-171042\\11.mp4"
+    },
+    {
+      "scene": 12,
+      "label": "M0 Gameplay",
+      "sourceStartSeconds": 314,
+      "sourceEndSeconds": 321,
+      "frames": 175,
+      "clip": "D:\\gravifire\\submission-footage\\short-showcase-work-20261113-171042\\12.mp4"
+    },
+    {
+      "scene": 13,
+      "label": "M1 Fire Scene",
+      "sourceStartSeconds": 350,
+      "sourceEndSeconds": 356,
+      "frames": 150,
+      "clip": "D:\\gravifire\\submission-footage\\short-showcase-work-20261113-171042\\13.mp4"
+    },
+    {
+      "scene": 14,
+      "label": "M1 Console",
+      "sourceStartSeconds": 359,
+      "sourceEndSeconds": 366,
+      "frames": 175,
+      "clip": "D:\\gravifire\\submission-footage\\short-showcase-work-20261113-171042\\14.mp4"
+    },
+    {
+      "scene": 15,
+      "label": "M4 Gameplay",
+      "sourceStartSeconds": 399,
+      "sourceEndSeconds": 406,
+      "frames": 175,
+      "clip": "D:\\gravifire\\submission-footage\\short-showcase-work-20261113-171042\\15.mp4"
+    },
+    {
+      "scene": 16,
+      "label": "M6 Mission",
+      "sourceStartSeconds": 476,
+      "sourceEndSeconds": 483,
+      "frames": 175,
+      "clip": "D:\\gravifire\\submission-footage\\short-showcase-work-20261113-171042\\16.mp4"
+    },
+    {
+      "scene": 17,
+      "label": "Dossier",
+      "sourceStartSeconds": 490,
+      "sourceEndSeconds": 496,
+      "frames": 150,
+      "clip": "D:\\gravifire\\submission-footage\\short-showcase-work-20261113-171042\\17.mp4"
+    }
+  ],
+  "audio": "No audio stream, matching source",
+  "validation": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.640028",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "chroma_location": "center",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "25/1",
+        "avg_frame_rate": "25/1",
+        "time_base": "1/12800",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 1395200,
+        "duration": "109.000000",
+        "bit_rate": "842195",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "2725",
+        "extradata_size": 48,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "eng",
+          "handler_name": "VideoHandler",
+          "encoder": "Lavc63.1.101 libx264"
+        }
+      }
+    ],
+    "format": {
+      "filename": "D:\\gravifire\\submission-footage\\GRAVIFIRE_Short_Showcase.mp4",
+      "nb_streams": 1,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "109.000000",
+      "size": "11508109",
+      "bit_rate": "844631",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf63.1.101"
+      }
+    }
+  },
+  "fullDecode": "PASS",
+  "sourceUnchanged": true,
+  "bytes": 11508109
+}

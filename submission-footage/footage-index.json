@@ -1,0 +1,512 @@
+{
+  "kind": "Continuous unedited actual browser recording",
+  "createdAt": "2026-11-13T10:21:41.659Z",
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "audio": false,
+  "profile": "Fresh isolated Playwright context; no campaign state seeded or edited",
+  "captureMethod": "Playwright Chromium native recorder; original cadence retained",
+  "scenes": [
+    {
+      "id": "WEB-01",
+      "startSeconds": 0.165,
+      "route": "/",
+      "features": "Branding, hero, navigation, homepage sections and dashboard entry",
+      "completeness": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": [],
+      "observations": [],
+      "endSeconds": 15.016,
+      "endRoute": "/dashboard",
+      "captureStatusOriginal": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "videoReview": "Actual native-video midpoint and end samples inspected in contact sheets; scientific record and game refusal/loading frames also inspected individually. Not an exhaustive frame-by-frame human audit.",
+      "startTimecode": "00:00:00.17",
+      "endTimecode": "00:00:15.02"
+    },
+    {
+      "id": "WEB-02",
+      "startSeconds": 15.018,
+      "route": "/dashboard",
+      "features": "Mission scenarios; prevention, detection, suppression; rankings and limitations",
+      "completeness": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": [],
+      "observations": [
+        "All three objective controls exercised; lunar scenario remains hypothetical"
+      ],
+      "endSeconds": 41.352,
+      "endRoute": "/dashboard",
+      "captureStatusOriginal": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "videoReview": "Actual native-video midpoint and end samples inspected in contact sheets; scientific record and game refusal/loading frames also inspected individually. Not an exhaustive frame-by-frame human audit.",
+      "startTimecode": "00:00:15.02",
+      "endTimecode": "00:00:41.35"
+    },
+    {
+      "id": "WEB-03",
+      "startSeconds": 41.353,
+      "route": "/experiments",
+      "features": "NASA registry families, exact PSI identities, integration status, record scope and provenance",
+      "completeness": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": [],
+      "observations": [],
+      "investigations": [
+        {
+          "family": "BASS",
+          "psi": "PSI-26",
+          "visibleCardText": "BASS\nPSI-26\nNASA SOURCE\nBurning and Suppression of Solids\n\nSOLID FUEL COMBUSTION\n\nPSI-26 source metadata and research artifacts are present in the merged archive; validated run-level records are not yet ingested into GRAVIFIRE.\n\nREFERENCE ONLY · NO VALIDATED RUN RECORDS\nBASS · PSI-26\n\nSolid material flammability\n\nLocal PSI-26 material is metadata and research context; no primary experimental table or validated runtime records are present.\n\nRESEARCH AREAS\n\nSource metadata\nResearch context\nRun-level ingestion pending\nExplore Investigation\nView NASA Source"
+        },
+        {
+          "family": "BASS-II",
+          "psi": "PSI-25",
+          "visibleCardText": "BASS-II\nPSI-25\nNASA SOURCE\nBurning and Suppression of Solids II\n\nSOLID FUEL COMBUSTION\n\nMicrogravity solid-fuel combustion experiments studying flame behavior, spread, airflow, oxygen conditions, and extinction.\n\nVERIFIED · 129 RUN RECORDS\nBASS-II · PSI-25\n\nSolid material flammability\n\nThe count describes validated run records in the local PSI-25 table, not all NASA BASS-II source materials.\n\nRESEARCH AREAS\n\nFlame spread\nOxygen variation\nAirflow variation\nExtinction behavior\nExplore Investigation\nView NASA Source"
+        },
+        {
+          "family": "SAFFIRE-I",
+          "psi": "PSI-98",
+          "visibleCardText": "SAFFIRE-I\nPSI-98\nNASA SOURCE\nSpacecraft Fire Safety Experiment-I\n\nLARGE-SCALE SPACECRAFT FIRE\n\nLarge-scale spacecraft fire experiments designed to investigate flame growth and material burning behavior in a spacecraft environment.\n\nVERIFIED · 2 RUN RECORDS\nSAFFIRE-I · PSI-98\n\nSpacecraft material flammability\n\nThe PSI-98 table has two classified combustion records; two pretest flow-visualization rows are not counted as runs.\n\nRESEARCH AREAS\n\nLarge-scale fire\nLow-gravity flammability\nPhysical airflow\nFlame imaging\nExplore Investigation\nView NASA Source"
+        },
+        {
+          "family": "SAFFIRE-II",
+          "psi": "PSI-99",
+          "visibleCardText": "SAFFIRE-II\nPSI-99\nNASA SOURCE\nSpacecraft Fire Experiment-II\n\nLARGE-SCALE SPACECRAFT FIRE\n\nLow-gravity material flammability experiments with explicit low-g and 1-g reference table fields.\n\nVERIFIED · 9 RUN RECORDS\nSAFFIRE-II · PSI-99\n\nSpacecraft material flammability\n\nThe normalized source retains thickness ambiguities and source unit mismatches; see the PSI-99 ingestion report and source notes.\n\nRESEARCH AREAS\n\nMaterial flammability\nLow-g comparison\nPhysical airflow\nOxygen conditions\nExplore Investigation\nView NASA Source"
+        },
+        {
+          "family": "SAFFIRE-III",
+          "psi": "PSI-100",
+          "visibleCardText": "SAFFIRE-III\nPSI-100\nNASA SOURCE\nSpacecraft Fire Experiment-III\n\nLARGE-SCALE SPACECRAFT FIRE\n\nLarge-scale SIBAL spacecraft fire configuration records from the locally ingested PSI-100 Experimental Table.\n\nVERIFIED · 2 RUN RECORDS\nSAFFIRE-III · PSI-100\n\nSpacecraft material flammability\n\nThe normalized PSI-100 artifact records source-context conflicts; the conflicting values are not reconciled.\n\nRESEARCH AREAS\n\nLarge-scale configuration\nPhysical airflow\nFlow direction\nCamera references\nExplore Investigation\nView NASA Source"
+        },
+        {
+          "family": "SAME",
+          "psi": "PSI-102",
+          "visibleCardText": "SAME\nPSI-102\nNASA SOURCE\nSmoke and Aerosol Measurement Experiment\n\nSMOKE AND DETECTION\n\nSpaceflight experiments studying smoke and aerosol conditions relevant to spacecraft fire detection research.\n\nVERIFIED · 8 EXPERIMENTAL-TABLE RECORDS\nSAME · PSI-102\n\nSmoke and aerosol detection\n\nThese experimental-table records do not include detector-response or alarm-outcome measurements; the row count is not a count of detections.\n\nLocal source has eight records; the registry notes a discrepancy with a nine-row web display.\n\nRESEARCH AREAS\n\nSmoke characterization\nAerosol behavior\nDetection research\nFire safety\nExplore Investigation\nView NASA Source"
+        },
+        {
+          "family": "SAME-R",
+          "psi": "PSI-101",
+          "visibleCardText": "SAME-R\nPSI-101\nNASA SOURCE\nSmoke Aerosol Measurement Experiment Reflight\n\nSMOKE AND AEROSOL MEASUREMENT\n\nSAME-2 reflight configuration records from the locally ingested PSI-101 Experimental Table.\n\nVERIFIED · 109 EXPERIMENTAL-TABLE RECORDS\nSAME-R · PSI-101\n\nSmoke and aerosol detection\n\nThese experimental-table records do not include detector-response or alarm-outcome measurements; the row count is not a count of detections.\n\nThe local validated record count is from the PSI-101 Experimental Table, not an independent count of sensor detections.\n\nRESEARCH AREAS\n\nSmoke-source configurations\nInlet velocity\nAging timing\nMixing timing\nExplore Investigation\nView NASA Source"
+        },
+        {
+          "family": "FLEX",
+          "psi": "PSI-69",
+          "visibleCardText": "FLEX\nPSI-69\nNASA SOURCE\nFlame Extinguishment Experiment\n\nDROPLET COMBUSTION\n\nMicrogravity droplet-combustion experiments investigating ignition, burning, extinction, pressure, oxygen, and suppressant effects.\n\nVERIFIED · 274 RUN RECORDS\nFLEX · PSI-69\n\nDroplet combustion and extinguishment\n\nThe ingestion report records source header/unit and gas-label interpretation warnings, and a 274-row local versus 284-test report discrepancy.\n\nRESEARCH AREAS\n\nDroplet combustion\nExtinction\nPressure effects\nSuppressant effects\nExplore Investigation\nView NASA Source"
+        },
+        {
+          "family": "FLEX-2",
+          "psi": "PSI-68",
+          "visibleCardText": "FLEX-2\nPSI-68\nNASA SOURCE\nFlame Extinguishment Experiment-2\n\nDROPLET COMBUSTION CONFIGURATION\n\nConfiguration envelopes for FLEX-2 droplet-combustion research; these records describe intended parameter space, not individual run results.\n\nVERIFIED · 8 CONFIGURATION ENVELOPES\nFLEX-2 · PSI-68\n\nDroplet combustion and extinguishment\n\nThe eight records are configuration envelopes, not individual completed test runs or measured outcomes.\n\nRESEARCH AREAS\n\nFuel configuration envelopes\nDroplet-size ranges\nGas mixture options\nOxygen options\nPressure options\nFlow envelope\nExplore Investigation\nView NASA Source"
+        }
+      ],
+      "endSeconds": 101.754,
+      "endRoute": "/experiments/bass-ii",
+      "captureStatusOriginal": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "videoReview": "Actual native-video midpoint and end samples inspected in contact sheets; scientific record and game refusal/loading frames also inspected individually. Not an exhaustive frame-by-frame human audit.",
+      "startTimecode": "00:00:41.35",
+      "endTimecode": "00:01:41.75"
+    },
+    {
+      "id": "WEB-04",
+      "startSeconds": 101.754,
+      "route": "/recommend/investigations",
+      "features": "Mission research relevance rankings, deterministic score factors and filters",
+      "completeness": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": [],
+      "observations": [],
+      "endSeconds": 126.111,
+      "endRoute": "/recommend/investigations",
+      "captureStatusOriginal": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "videoReview": "Actual native-video midpoint and end samples inspected in contact sheets; scientific record and game refusal/loading frames also inspected individually. Not an exhaustive frame-by-frame human audit.",
+      "startTimecode": "00:01:41.75",
+      "endTimecode": "00:02:06.11",
+      "sourceIdentities": [
+        "BASS-II PSI-25",
+        "SAME PSI-102",
+        "SAME-R PSI-101"
+      ]
+    },
+    {
+      "id": "WEB-05",
+      "startSeconds": 126.112,
+      "route": "/applicability",
+      "features": "Hypothetical spacecraft/lunar/Mars conditions; matched/mismatched/unknown and partial-gravity cautions",
+      "completeness": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": [],
+      "observations": [],
+      "endSeconds": 161.252,
+      "endRoute": "/applicability",
+      "captureStatusOriginal": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "videoReview": "Actual native-video midpoint and end samples inspected in contact sheets; scientific record and game refusal/loading frames also inspected individually. Not an exhaustive frame-by-frame human audit.",
+      "startTimecode": "00:02:06.11",
+      "endTimecode": "00:02:41.25",
+      "sourceIdentities": [
+        "BASS-II PSI-25"
+      ]
+    },
+    {
+      "id": "WEB-06",
+      "startSeconds": 161.254,
+      "route": "/dashboard?mission=LUNAR_HABITAT&objective=PREVENTION&investigation=bass-ii&record=B1",
+      "features": "BASS-II B1 22.2% oxygen, condition match, gravity mismatch, unknown outcome and exact source provenance",
+      "completeness": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": [],
+      "observations": [],
+      "investigations": [
+        "BASS-II PSI-25"
+      ],
+      "recordIdentifiers": [
+        "B1",
+        "PSI-25:Test-B1"
+      ],
+      "endSeconds": 184.442,
+      "endRoute": "/dashboard",
+      "captureStatusOriginal": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "videoReview": "Actual native-video midpoint and end samples inspected in contact sheets; scientific record and game refusal/loading frames also inspected individually. Not an exhaustive frame-by-frame human audit.",
+      "startTimecode": "00:02:41.25",
+      "endTimecode": "00:03:04.44"
+    },
+    {
+      "id": "WEB-07",
+      "startSeconds": 184.443,
+      "route": "/lab?investigation=bass-ii&run=B1",
+      "features": "Virtual Lab source configuration and explicitly hypothetical modification, limitations and citations",
+      "completeness": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": [],
+      "observations": [
+        "Modified controls are hypothetical configurations; no experimental prediction added"
+      ],
+      "endSeconds": 202.534,
+      "endRoute": "/lab",
+      "captureStatusOriginal": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "videoReview": "Actual native-video midpoint and end samples inspected in contact sheets; scientific record and game refusal/loading frames also inspected individually. Not an exhaustive frame-by-frame human audit.",
+      "startTimecode": "00:03:04.44",
+      "endTimecode": "00:03:22.53",
+      "sourceIdentities": [
+        "BASS-II PSI-25"
+      ]
+    },
+    {
+      "id": "WEB-08",
+      "startSeconds": 202.538,
+      "route": "/experiments/bass-ii/runs/B1",
+      "features": "Evidence DNA hierarchy, exact source record, provenance, outcome limits and original NASA video",
+      "completeness": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": [],
+      "observations": [
+        "Played actual linked NASA source video for seven seconds"
+      ],
+      "recordIdentifiers": [
+        "B1",
+        "PSI-25:Test-B1"
+      ],
+      "endSeconds": 226.279,
+      "endRoute": "/experiments/bass-ii/runs/B1",
+      "captureStatusOriginal": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "videoReview": "Actual native-video midpoint and end samples inspected in contact sheets; scientific record and game refusal/loading frames also inspected individually. Not an exhaustive frame-by-frame human audit.",
+      "startTimecode": "00:03:22.54",
+      "endTimecode": "00:03:46.28",
+      "sourceIdentities": [
+        "BASS-II PSI-25"
+      ]
+    },
+    {
+      "id": "WEB-09",
+      "startSeconds": 226.28,
+      "route": "/ask?run=B1&investigation=bass-ii",
+      "features": "Four real grounded EMBER queries: evidence, ranking, partial gravity and unsupported safety certification",
+      "completeness": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": [],
+      "observations": [],
+      "queries": [
+        {
+          "question": "What evidence do we have for B1?",
+          "actualResponse": "ANSWER\n\nGRAVIFIRE has a structured NASA BASS-II record for BASS-II Test B1. The related report is not directly linked to this record.\n\nEVIDENCE PARTIAL\n\nDetected intent: RUN_EVIDENCE · PARTIALLY_ANSWERED\n\nEVIDENCE USED\n\nEXPERIMENT RECORD\n\nPSI-25:Test-B1\nNASA BASS-II Experimental Table · BASS-II Test B1\n\nBASS-II Test B1, Sample 147; raw material: 100 micron PMMA film 2 cm wide.\n\nPSI-25_Experimental table_BASS-II.csv, row 2\n\nView source ↗\n\nNASA RAW VIDEO\n\nPSI-25:B1:RAW-VIDEO\nBASS_GMT50_SAMPLE_147_TEST_B1.mp4\n\nRaw NASA evidence asset linked by explicit identifiers.\n\ne82f64268c51efeea73a3f11e690a2f6e504845e980fb60356a6ef1584d273cd\n\nView source ↗\n\nLIMITATIONS\n\n• No verified Summary Report link to BASS-II Test B1 has been established.\n\nCHALLENGE THIS ANSWER\n\nThis answer was checked against the exact evidence sources attached to the retrieved response.\n\nLIMITED EVIDENCE\n\nNo verified Summary Report link to BASS-II Test B1 has been established.\n\nEVIDENCE DNA\n\nWhere this NASA record comes from\nREAL NASA DATA\n\nPRIMARY INGESTED EVIDENCE\n\nNASA PSI-25 · BASS-II\n\n↓ Experimental Table\n\nTest B1 / Sample 147\n\n↓ Raw NASA evidence\n\nBASS_GMT50_SAMPLE_147_TEST_B1.mp4\n\nSCIENTIFIC DOCUMENT BRANCH\n\nRelated Investigation Science\n\nNo verified run-level scientific document link is currently attached to Test B1.\n\nOpen NASA source for BASS-II record B1\nSource identifiers and ingestion provenance\n\nEvidence branches remain separate unless an exact identifier or explicit source relation supports a link."
+        },
+        {
+          "question": "Rank NASA investigations for lunar fire prevention",
+          "actualResponse": "ANSWER\n\nResearch relevance ranking for LUNAR HABITAT prevention. Scores are reproduced from NASA Investigation Relevance v1; they are discovery priorities, not safety or performance scores.\n1. Burning and Suppression of Solids II — 0.582500 (verified_and_ingested).\nMission relevance (0.90): Research pillar assignment maps to the LUNAR HABITAT mission profile.\nMaterial/phenomenon (0.25): Matched 0/6 informative question terms; no explicit material filter (material component is neutral at 0.50). Only cataloged title, family, pillar, category, material and capability text is searched; this is lexical matching, not semantic inference.\nEnvironmental match (0.00): Best linked record B1: 0/1 active profile/input conditions match exactly; 1 mismatch and 0 unknown. Unknown values earn no points.\nEvidence completeness (1.00): 4 of 4 registry integration artifacts are present and hashed where applicable. Record count describes local ingestion coverage, not scientific confidence.\n2. Spacecraft Fire Safety Experiment-I — 0.573333 (verified_and_ingested).\nMission relevance (0.80): Research pillar assignment maps to the LUNAR HABITAT mission profile.\nMaterial/phenomenon (0.33): Matched 1/6 informative question terms; no explicit material filter (material component is neutral at 0.50). Only cataloged title, family, pillar, category, material and capability text is searched; this is lexical matching, not semantic inference.\nEnvironmental match (0.00): Best linked record S1: 0/1 active profile/input conditions match exactly; 0 mismatch and 1 unknown. Unknown values earn no points.\nEvidence completeness (1.00): 4 of 4 registry integration artifacts are present and hashed where applicable. Record count describes local ingestion coverage, not scientific confidence.\n3. Spacecraft Fire Experiment-II — 0.573333 (verified_and_ingested).\nMission relevance (0.80): Research pillar assignment maps to the LUNAR HABITAT mission profile.\nMaterial/phenomenon (0.33): Matched 1/6 informative question terms; no explicit material filter (material component is neutral at 0.50). Only cataloged title, family, pillar, category, material and capability text is searched; this is lexical matching, not semantic inference.\nEnvironmental match (0.00): Best linked record 2-1: 0/1 active profile/input conditions match exactly; 0 mismatch and 1 unknown. Unknown values earn no points.\nEvidence completeness (1.00): 4 of 4 registry integration artifacts are present and hashed where applicable. Record count describes local ingestion coverage, not scientific confidence.\n4. Spacecraft Fire Experiment-III — 0.573333 (verified_and_ingested).\nMission relevance (0.80): Research pillar assignment maps to the LUNAR HABITAT mission profile.\nMaterial/phenomenon (0.33): Matched 1/6 informative question terms; no explicit material filter (material component is neutral at 0.50). Only cataloged title, family, pillar, category, material and capability text is searched; this is lexical matching, not semantic inference.\nEnvironmental match (0.00): Best linked record S1: 0/1 active profile/input conditions match exactly; 0 mismatch and 1 unknown. Unknown values earn no points.\nEvidence completeness (1.00): 4 of 4 registry integration artifacts are present and hashed where applicable. Record count describes local ingestion coverage, not scientific confidence.\n5. Burning and Suppression of Solids — 0.382500 (reference_only).\nMission relevance (0.90): Research pillar assignment maps to the LUNAR HABITAT mission profile.\nMaterial/phenomenon (0.25): Matched 0/6 informative question terms; no explicit material filter (material component is neutral at 0.50). Only cataloged title, family, pillar, category, material and capability text is searched; this is lexical matching, not semantic inference.\nEnvironmental match (0.00): No verified run or configuration-envelope conditions are linked to this investigation; missing metadata receives no match credit.\nEvidence completeness (0.20): Research reference is cataloged, but there are no verified normalized run/configuration records.\nThe current verified GRAVIFIRE catalog contains no direct lunar or Martian partial-gravity fire evidence. These rankings do not validate transfer from microgravity to partial gravity.\n\nEVIDENCE PARTIAL\n\nDetected intent: INVESTIGATION_RELEVANCE · PARTIALLY_ANSWERED\n\nEVIDENCE USED\n\nGRAVIFIRE METHOD\n\nGRAVIFIRE:NASA Investigation Relevance v1\nNASA Investigation Relevance v1 ranking record\n\nDeterministic research relevance score 0.5825, rank 1. Factor values and explanations are copied from the ranking engine; they do not indicate material safety or performance.\n\nNASA investigation coverage registry; integration status verified_and_ingested.\n\nView source ↗\n\nGRAVIFIRE METHOD\n\nGRAVIFIRE:NASA Investigation Relevance v1\nNASA Investigation Relevance v1 ranking record\n\nDeterministic research relevance score 0.573333, rank 2. Factor values and explanations are copied from the ranking engine; they do not indicate material safety or performance.\n\nNASA investigation coverage registry; integration status verified_and_ingested.\n\nView source ↗\n\nGRAVIFIRE METHOD\n\nGRAVIFIRE:NASA Investigation Relevance v1\nNASA Investigation Relevance v1 ranking record\n\nDeterministic research relevance score 0.573333, rank 3. Factor values and explanations are copied from the ranking engine; they do not indicate material safety or performance.\n\nNASA investigation coverage registry; integration status verified_and_ingested.\n\nView source ↗\n\nGRAVIFIRE METHOD\n\nGRAVIFIRE:NASA Investigation Relevance v1\nNASA Investigation Relevance v1 ranking record\n\nDeterministic research relevance score 0.573333, rank 4. Factor values and explanations are copied from the ranking engine; they do not indicate material safety or performance.\n\nNASA investigation coverage registry; integration status verified_and_ingested.\n\nView source ↗\n\nGRAVIFIRE METHOD\n\nGRAVIFIRE:NASA Investigation Relevance v1\nNASA Investigation Relevance v1 ranking record\n\nDeterministic research relevance score 0.3825, rank 5. Factor values and explanations are copied from the ranking engine; they do not indicate material safety or performance.\n\nNASA investigation coverage registry; integration status reference_only.\n\nView source ↗\n\nLIMITATIONS\n\n• No direct lunar/Martian partial-gravity fire evidence is verified in the current GRAVIFIRE catalog.\n• Ranking factors explain research relevance only; absent data receives no extra confidence.\n• Reference-only investigations are not verified run-level evidence.\n\nCHALLENGE THIS ANSWER\n\nThis answer was checked against the exact evidence sources attached to the retrieved response.\n\nLIMITED EVIDENCE\n\nNo direct lunar/Martian partial-gravity fire evidence is verified in the current GRAVIFIRE catalog."
+        },
+        {
+          "question": "Which NASA tests measured fire in lunar partial gravity?",
+          "actualResponse": "ANSWER\n\nThe currently verified GRAVIFIRE catalog does not contain a direct lunar or Martian partial-gravity fire experiment record. I cannot name or summarize a specific test from this catalog.\n\nEVIDENCE INSUFFICIENT\n\nDetected intent: KNOWLEDGE_GAP · INSUFFICIENT_EVIDENCE\n\nEVIDENCE USED\n\nNo source met the evidence threshold.\n\nLIMITATIONS\n\n• This is a statement about current GRAVIFIRE-verified coverage; it does not establish that no such research exists elsewhere.\n• Do not infer partial-gravity behavior from microgravity results without an applicable validated model or direct measurements.\n\nCHALLENGE THIS ANSWER\n\nThis answer was checked against the exact evidence sources attached to the retrieved response.\n\nINSUFFICIENT EVIDENCE\n\nThis is a statement about current GRAVIFIRE-verified coverage; it does not establish that no such research exists elsewhere."
+        },
+        {
+          "question": "Is PMMA safe for a lunar habitat?",
+          "actualResponse": "ANSWER\n\nGRAVIFIRE cannot certify a material or habitat as fire-safe, fireproof, or NASA-approved. The available investigation records and relevance ranking are not safety certification or a validated predictive model.\n\nEVIDENCE INSUFFICIENT\n\nDetected intent: SAFETY_REFUSAL · INSUFFICIENT_EVIDENCE\n\nEVIDENCE USED\n\nGRAVIFIRE METHOD\n\nGRAVIFIRE:NASA Investigation Relevance v1\nEvidence and ranking scope\n\nResearch relevance ranking does not indicate material safety, predicted performance, or NASA certification.\n\nsrc/lib/investigation-ranking.ts\n\nLIMITATIONS\n\n• No NASA certification or sufficient validated evidence for this safety conclusion is available in the current evidence system.\n• Use the underlying NASA evidence and applicable qualification process; do not treat this answer as an engineering approval.\n\nCHALLENGE THIS ANSWER\n\nThis answer was checked against the exact evidence sources attached to the retrieved response.\n\nINSUFFICIENT EVIDENCE\n\nNo NASA certification or sufficient validated evidence for this safety conclusion is available in the current evidence system."
+        }
+      ],
+      "endSeconds": 289.189,
+      "endRoute": "/ask",
+      "captureStatusOriginal": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "videoReview": "Actual native-video midpoint and end samples inspected in contact sheets; scientific record and game refusal/loading frames also inspected individually. Not an exhaustive frame-by-frame human audit.",
+      "startTimecode": "00:03:46.28",
+      "endTimecode": "00:04:49.19",
+      "sourceIdentities": [
+        "BASS-II PSI-25",
+        "GRAVIFIRE deterministic ranking methodology"
+      ]
+    },
+    {
+      "id": "WEB-10",
+      "startSeconds": 289.192,
+      "route": "/mission-control/dossier",
+      "features": "Fresh-session mission archive, scientific status, evidence relationships and limitations",
+      "completeness": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": [],
+      "observations": [
+        "Fresh isolated campaign: empty/uncompleted entries shown honestly before gameplay"
+      ],
+      "endSeconds": 298.696,
+      "endRoute": "/mission-control/dossier",
+      "captureStatusOriginal": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "videoReview": "Actual native-video midpoint and end samples inspected in contact sheets; scientific record and game refusal/loading frames also inspected individually. Not an exhaustive frame-by-frame human audit.",
+      "startTimecode": "00:04:49.19",
+      "endTimecode": "00:04:58.70"
+    },
+    {
+      "id": "GAME-01",
+      "startSeconds": 298.697,
+      "route": "/mission-control",
+      "features": "Fictional ISV Vesta campaign, mission selection, availability and NASA evidence navigation",
+      "completeness": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": [],
+      "observations": [],
+      "endSeconds": 308.364,
+      "endRoute": "/mission-control",
+      "captureStatusOriginal": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "videoReview": "Actual native-video midpoint and end samples inspected in contact sheets; scientific record and game refusal/loading frames also inspected individually. Not an exhaustive frame-by-frame human audit.",
+      "startTimecode": "00:04:58.70",
+      "endTimecode": "00:05:08.36"
+    },
+    {
+      "id": "GAME-02",
+      "startSeconds": 308.364,
+      "route": "/mission-control/play/m0",
+      "features": "Real M0 onboarding, walking, incident inspection, operational response, pause and available completion",
+      "completeness": "PARTIAL",
+      "issues": [
+        "Completion button not reached through actual movement/interactions",
+        "Native blackdetect flagged 308.52�309.48 s; inspected frame shows genuine onboarding over dark initial scene, not missing video. Initial loading is retained, not a gameplay demonstration."
+      ],
+      "observations": [
+        {
+          "atSeconds": 328.034,
+          "objective": "M0 · TWO SECONDS OF SMOKE\nINSPECT INCIDENT SYSTEMS · 0 / 3\nINCIDENT BAY · FICTIONAL SCENE",
+          "attemptedAction": "Approach deck-B incident"
+        },
+        {
+          "atSeconds": 332.331,
+          "objective": "M0 · TWO SECONDS OF SMOKE\nINSPECT INCIDENT SYSTEMS · 1 / 3\nINCIDENT BAY · FICTIONAL SCENE",
+          "attemptedAction": "Inspect heater"
+        },
+        {
+          "atSeconds": 334.942,
+          "objective": "M0 · TWO SECONDS OF SMOKE\nINSPECT INCIDENT SYSTEMS · 2 / 3\nINCIDENT BAY · FICTIONAL SCENE",
+          "attemptedAction": "Inspect garment"
+        },
+        {
+          "atSeconds": 337.493,
+          "objective": "M0 · TWO SECONDS OF SMOKE\nINSPECT INCIDENT SYSTEMS · 2 / 3\nINCIDENT BAY · FICTIONAL SCENE",
+          "attemptedAction": "Inspect ventilation"
+        },
+        {
+          "atSeconds": 341.802,
+          "objective": "M0 · TWO SECONDS OF SMOKE\nINSPECT INCIDENT SYSTEMS · 2 / 3\nINCIDENT BAY · FICTIONAL SCENE",
+          "attemptedAction": "Choose ventilation response"
+        }
+      ],
+      "endSeconds": 351.823,
+      "endRoute": "/mission-control/play/m0",
+      "captureStatusOriginal": "PARTIAL",
+      "videoReview": "Actual native-video midpoint and end samples inspected in contact sheets; scientific record and game refusal/loading frames also inspected individually. Not an exhaustive frame-by-frame human audit.",
+      "startTimecode": "00:05:08.36",
+      "endTimecode": "00:05:51.82"
+    },
+    {
+      "id": "GAME-03",
+      "startSeconds": 351.826,
+      "route": "/mission-control/play/m1?review=1",
+      "features": "M1 genuine initial-state exploration, SIBAL, source replay stations and comparison",
+      "completeness": "PARTIAL",
+      "issues": [
+        "Available initial-state gameplay recorded; campaign completion is not asserted"
+      ],
+      "observations": [
+        {
+          "atSeconds": 363.418,
+          "objective": "M1 · SIBAL: THE STANDARD\nINSPECT S1 RUN\nREPLAY CHAMBER · S1 CONCURRENT",
+          "attemptedAction": "Activate SIBAL"
+        },
+        {
+          "atSeconds": 370.578,
+          "objective": "M1 · SIBAL: THE STANDARD\nINSPECT S2 RUN\nREPLAY CHAMBER · S2 OPPOSED",
+          "attemptedAction": "Review S1"
+        },
+        {
+          "atSeconds": 376.593,
+          "objective": "M1 · SIBAL: THE STANDARD\nREVIEW SOURCE COMPARISON\nANALYSIS BAY · E — REVIEW",
+          "attemptedAction": "Review S2"
+        },
+        {
+          "atSeconds": 387.265,
+          "objective": "M1 · SIBAL: THE STANDARD\nREVIEW SOURCE COMPARISON\nANALYSIS BAY · E — REVIEW",
+          "attemptedAction": "Open source comparison"
+        }
+      ],
+      "access": "Built-in development review access without stage parameter; no objective state seeded",
+      "endSeconds": 402.441,
+      "endRoute": "/dashboard",
+      "captureStatusOriginal": "PARTIAL",
+      "videoReview": "Actual native-video midpoint and end samples inspected in contact sheets; scientific record and game refusal/loading frames also inspected individually. Not an exhaustive frame-by-frame human audit.",
+      "startTimecode": "00:05:51.83",
+      "endTimecode": "00:06:42.44",
+      "sourceIdentities": [
+        "SAFFIRE-I PSI-98"
+      ],
+      "recordIdentifiers": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "GAME-04",
+      "startSeconds": 402.442,
+      "route": "/mission-control/play/m4?review=1",
+      "features": "M4 actual material, ground and low-g source interactions and reachable sample inspection",
+      "completeness": "PARTIAL",
+      "issues": [
+        "Keyboard interaction maps sample wall to 2-1; all-four-row review and mission completion not asserted"
+      ],
+      "observations": [
+        {
+          "atSeconds": 413.174,
+          "objective": "M4 · SILICONE: THE GASKET PARADOX\nREVIEW 1-g REFERENCE\n1-G REFERENCE ZONE",
+          "attemptedAction": "Identify silicone material"
+        },
+        {
+          "atSeconds": 419.313,
+          "objective": "M4 · SILICONE: THE GASKET PARADOX\nREVIEW LOW-g FLIGHT RECORD\nLOW-G FLIGHT EVIDENCE ZONE",
+          "attemptedAction": "Review ground reference"
+        },
+        {
+          "atSeconds": 427.495,
+          "objective": "M4 · SILICONE: THE GASKET PARADOX\nINSPECT SAMPLES 2-1 THROUGH 2-4\nSAMPLE WALL · 0 / 4",
+          "attemptedAction": "Review low-g flight evidence"
+        },
+        {
+          "atSeconds": 434.966,
+          "objective": "M4 · SILICONE: THE GASKET PARADOX\nINSPECT SAMPLES 2-1 THROUGH 2-4\nSAMPLE WALL · 1 / 4",
+          "attemptedAction": "Inspect source sample 2-1"
+        }
+      ],
+      "access": "Built-in development review access, no stage override",
+      "endSeconds": 449.345,
+      "endRoute": "/dashboard",
+      "captureStatusOriginal": "PARTIAL",
+      "videoReview": "Actual native-video midpoint and end samples inspected in contact sheets; scientific record and game refusal/loading frames also inspected individually. Not an exhaustive frame-by-frame human audit.",
+      "startTimecode": "00:06:42.44",
+      "endTimecode": "00:07:29.35",
+      "sourceIdentities": [
+        "SAFFIRE-II PSI-99"
+      ],
+      "recordIdentifiers": [
+        "2-1 (interacted)",
+        "2-2, 2-3, 2-4 (visible source cards only)"
+      ]
+    },
+    {
+      "id": "GAME-05",
+      "startSeconds": 449.346,
+      "route": "/mission-control/play/m6?review=1",
+      "features": "M6 real manifest selection, evidence, airlock, boundary/refusal and persistent Dossier",
+      "completeness": "PARTIAL",
+      "issues": [
+        "Reachable mission progression recorded; no campaign-wide completion claim"
+      ],
+      "observations": [
+        {
+          "atSeconds": 459.558,
+          "objective": "M6 · THE AEGIS LIST & THE LOCKED DOOR\nASSEMBLE EVIDENCE\nEVIDENCE ASSEMBLY BAY",
+          "attemptedAction": "Choose available manifest through actual station interaction"
+        },
+        {
+          "atSeconds": 467.609,
+          "objective": "M6 · THE AEGIS LIST & THE LOCKED DOOR\nENTER EXPLORATION SECTION\nTRANSITION AIRLOCK",
+          "attemptedAction": "Review evidence station"
+        },
+        {
+          "atSeconds": 473.653,
+          "objective": "M6 · THE AEGIS LIST & THE LOCKED DOOR\nSCAN MARS BOUNDARY\nMARS BOUNDARY DOOR",
+          "attemptedAction": "Review airlock"
+        },
+        {
+          "atSeconds": 481.298,
+          "objective": "M6 · THE AEGIS LIST & THE LOCKED DOOR\nREVIEW REFUSAL / LOG NEXT EXPERIMENT\nREFUSAL / EXPERIMENT MEMO",
+          "attemptedAction": "Inspect partial-gravity boundary"
+        },
+        {
+          "atSeconds": 484.977,
+          "objective": "M6 · THE AEGIS LIST & THE LOCKED DOOR\nREVIEW REFUSAL / LOG NEXT EXPERIMENT\nREFUSAL / EXPERIMENT MEMO",
+          "attemptedAction": "Request unsupported verdict at refusal boundary"
+        },
+        "Dossier reopened after genuine game interactions to show actual isolated-session persistence"
+      ],
+      "access": "Built-in development review access, no stage override",
+      "endSeconds": 503.919,
+      "endRoute": "/mission-control/dossier",
+      "captureStatusOriginal": "PARTIAL",
+      "videoReview": "Actual native-video midpoint and end samples inspected in contact sheets; scientific record and game refusal/loading frames also inspected individually. Not an exhaustive frame-by-frame human audit.",
+      "startTimecode": "00:07:29.35",
+      "endTimecode": "00:08:23.92"
+    }
+  ],
+  "errors": [
+    {
+      "atSeconds": 185.292,
+      "type": "warning",
+      "message": "THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."
+    },
+    {
+      "atSeconds": 310.288,
+      "type": "warning",
+      "message": "DEPRECATED: Entity#getGuid is deprecated. Use Entity#guid instead."
+    },
+    {
+      "atSeconds": 353.542,
+      "type": "warning",
+      "message": "DEPRECATED: Entity#getGuid is deprecated. Use Entity#guid instead."
+    },
+    {
+      "atSeconds": 403.275,
+      "type": "warning",
+      "message": "DEPRECATED: Entity#getGuid is deprecated. Use Entity#guid instead."
+    },
+    {
+      "atSeconds": 450.006,
+      "type": "warning",
+      "message": "DEPRECATED: Entity#getGuid is deprecated. Use Entity#guid instead."
+    }
+  ],
+  "recordingEndWallSeconds": 503.92,
+  "nativeVideo": "D:\\gravifire\\submission-footage\\scenes\\page@6cda19c1b156cedc4849cad1c6ebefb6.webm",
+  "finishedAt": "2026-11-13T10:30:06.690Z",
+  "master": "D:\\gravifire\\submission-footage\\gravifire-complete-raw-master.webm",
+  "sceneTiming": {
+    "basis": "Measured wall-clock offsets from before recorded page creation; shared continuously with original video. All 15 scenes ordered and within measured media duration.",
+    "precision": "Navigation/editing cues, not certified frame-accurate cut points. Use supplied actual-video start/end frames; allow approximately one second around boundaries.",
+    "mediaDurationSeconds": 504.96,
+    "nativeTailAndClockDifferenceSeconds": 1.04,
+    "firstSceneIncludesOpeningBlankPage": true
+  },
+  "supplements": [
+    {
+      "sceneId": "GAME-02-SUPPLEMENT",
+      "video": "D:\\gravifire\\submission-footage\\scenes\\m0-supplement\\m0-real-progression.webm",
+      "mp4": "D:\\gravifire\\submission-footage\\scenes\\m0-supplement\\m0-real-progression.mp4",
+      "durationSeconds": 64.76,
+      "result": "M0_COMPLETION_PERSISTED_WITH_POST_COMPLETION_NAVIGATION_ERROR",
+      "issues": [
+        "After completion click, GRAVIFIRE could not load this view error screen. Visible at 42, 44, 46, 48 and 50 seconds. Do not use this interval as a successful navigation demonstration."
+      ],
+      "metadata": "D:\\gravifire\\submission-footage\\scenes\\m0-supplement\\capture.json"
+    }
+  ]
+}

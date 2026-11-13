@@ -1,0 +1,538 @@
+{
+  "kind": "Raw gameplay pickups only; existing master preserved",
+  "createdAt": "2026-11-13T10:52:07.882Z",
+  "masterUnchanged": true,
+  "masterFiles": [
+    {
+      "path": "D:\\gravifire\\submission-footage\\gravifire-complete-raw-master.webm",
+      "sha256": "ac23de095261a85dca04fe53eb3eecc1cb44a66e2f0e7c69abcf062a82c35b6a"
+    },
+    {
+      "path": "D:\\gravifire\\submission-footage\\gravifire-complete-raw-master.mp4",
+      "sha256": "42304c34932b2fd4611fb74b7286e87836885c47e659df6321f8d50b3a739dfc"
+    }
+  ],
+  "preservedFirstAttempt": {
+    "path": "D:\\gravifire\\submission-footage\\scenes\\gravifire-m4-remaining-samples-attempt1.webm",
+    "sha256": "f64fbc75ba96907ea52096fa0b1df7b78af3f6bead41ab66c4f4294559916d06",
+    "nativeOriginal": "D:\\gravifire\\submission-footage\\scenes\\m4-pickup-original",
+    "status": "Unsuccessful mouse attempts; review count remained 1/4"
+  },
+  "clips": [
+    {
+      "name": "gravifire-m4-remaining-samples",
+      "formats": [
+        {
+          "path": "D:\\gravifire\\submission-footage\\scenes\\gravifire-m4-remaining-samples.webm",
+          "metadata": {
+            "streams": [
+              {
+                "index": 0,
+                "codec_name": "vp9",
+                "codec_long_name": "Google VP9",
+                "profile": "Profile 0",
+                "codec_type": "video",
+                "codec_tag_string": "[0][0][0][0]",
+                "codec_tag": "0x0000",
+                "mime_codec_string": "vp09.00.40.08",
+                "width": 1920,
+                "height": 1080,
+                "coded_width": 1920,
+                "coded_height": 1080,
+                "has_b_frames": 0,
+                "sample_aspect_ratio": "1:1",
+                "display_aspect_ratio": "16:9",
+                "pix_fmt": "yuv420p",
+                "level": -99,
+                "color_range": "tv",
+                "chroma_location": "center",
+                "field_order": "progressive",
+                "r_frame_rate": "25/1",
+                "avg_frame_rate": "25/1",
+                "time_base": "1/1000",
+                "start_pts": 0,
+                "start_time": "0.000000",
+                "disposition": {
+                  "default": 1,
+                  "dub": 0,
+                  "original": 0,
+                  "comment": 0,
+                  "lyrics": 0,
+                  "karaoke": 0,
+                  "forced": 0,
+                  "hearing_impaired": 0,
+                  "visual_impaired": 0,
+                  "clean_effects": 0,
+                  "attached_pic": 0,
+                  "timed_thumbnails": 0,
+                  "non_diegetic": 0,
+                  "captions": 0,
+                  "descriptions": 0,
+                  "metadata": 0,
+                  "dependent": 0,
+                  "still_image": 0,
+                  "multilayer": 0
+                },
+                "tags": {
+                  "language": "eng",
+                  "ENCODER": "Lavc61.3.100 libvpx-vp9",
+                  "DURATION": "00:01:21.960000000"
+                }
+              }
+            ],
+            "format": {
+              "filename": "D:\\gravifire\\submission-footage\\scenes\\gravifire-m4-remaining-samples.webm",
+              "nb_streams": 1,
+              "nb_programs": 0,
+              "nb_stream_groups": 0,
+              "format_name": "matroska,webm",
+              "format_long_name": "Matroska / WebM",
+              "start_time": "0.000000",
+              "duration": "81.960000",
+              "size": "21530930",
+              "bit_rate": "2101603",
+              "probe_score": 100,
+              "tags": {
+                "creation_time": "2026-11-13T10:48:53.469000Z",
+                "ENCODER": "Lavf61.1.100"
+              }
+            }
+          },
+          "bytes": 21530930,
+          "sha256": "0163b18afdc8bd97492b7f6433e0d9a3f22d297520bf500e66cac3dd5195390a",
+          "fullDecode": "PASS",
+          "audioPresent": false,
+          "blackIntervals": [],
+          "decodeLog": "D:\\gravifire\\submission-footage\\scenes\\gravifire-m4-remaining-samples-webm-decode.log"
+        },
+        {
+          "path": "D:\\gravifire\\submission-footage\\scenes\\gravifire-m4-remaining-samples.mp4",
+          "metadata": {
+            "streams": [
+              {
+                "index": 0,
+                "codec_name": "h264",
+                "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+                "profile": "High",
+                "codec_type": "video",
+                "codec_tag_string": "avc1",
+                "codec_tag": "0x31637661",
+                "mime_codec_string": "avc1.640028",
+                "width": 1920,
+                "height": 1080,
+                "coded_width": 1920,
+                "coded_height": 1080,
+                "has_b_frames": 2,
+                "sample_aspect_ratio": "1:1",
+                "display_aspect_ratio": "16:9",
+                "pix_fmt": "yuv420p",
+                "level": 40,
+                "chroma_location": "center",
+                "field_order": "progressive",
+                "is_avc": "true",
+                "nal_length_size": "4",
+                "id": "0x1",
+                "r_frame_rate": "25/1",
+                "avg_frame_rate": "25/1",
+                "time_base": "1/12800",
+                "start_pts": 0,
+                "start_time": "0.000000",
+                "duration_ts": 1049088,
+                "duration": "81.960000",
+                "bit_rate": "1054784",
+                "bits_per_raw_sample": "8",
+                "nb_frames": "2049",
+                "extradata_size": 48,
+                "disposition": {
+                  "default": 1,
+                  "dub": 0,
+                  "original": 0,
+                  "comment": 0,
+                  "lyrics": 0,
+                  "karaoke": 0,
+                  "forced": 0,
+                  "hearing_impaired": 0,
+                  "visual_impaired": 0,
+                  "clean_effects": 0,
+                  "attached_pic": 0,
+                  "timed_thumbnails": 0,
+                  "non_diegetic": 0,
+                  "captions": 0,
+                  "descriptions": 0,
+                  "metadata": 0,
+                  "dependent": 0,
+                  "still_image": 0,
+                  "multilayer": 0
+                },
+                "tags": {
+                  "language": "eng",
+                  "handler_name": "VideoHandler",
+                  "encoder": "Lavc63.1.101 libx264"
+                }
+              }
+            ],
+            "format": {
+              "filename": "D:\\gravifire\\submission-footage\\scenes\\gravifire-m4-remaining-samples.mp4",
+              "nb_streams": 1,
+              "nb_programs": 0,
+              "nb_stream_groups": 0,
+              "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+              "format_long_name": "QuickTime / MOV",
+              "start_time": "0.000000",
+              "duration": "81.960000",
+              "size": "10831159",
+              "bit_rate": "1057214",
+              "probe_score": 100,
+              "tags": {
+                "major_brand": "isom",
+                "minor_version": "512",
+                "compatible_brands": "isomiso2avc1mp41",
+                "encoder": "Lavf63.1.101"
+              }
+            }
+          },
+          "bytes": 10831159,
+          "sha256": "6c1ecfe8f3f0a2d28d370e68bec30716109da0bd0b2b5a39bc50c6e0f7aabb1e",
+          "fullDecode": "PASS",
+          "audioPresent": false,
+          "blackIntervals": [],
+          "decodeLog": "D:\\gravifire\\submission-footage\\scenes\\gravifire-m4-remaining-samples-mp4-decode.log"
+        }
+      ]
+    },
+    {
+      "name": "gravifire-m0-clean-completion",
+      "formats": [
+        {
+          "path": "D:\\gravifire\\submission-footage\\scenes\\gravifire-m0-clean-completion.webm",
+          "metadata": {
+            "streams": [
+              {
+                "index": 0,
+                "codec_name": "vp9",
+                "codec_long_name": "Google VP9",
+                "profile": "Profile 0",
+                "codec_type": "video",
+                "codec_tag_string": "[0][0][0][0]",
+                "codec_tag": "0x0000",
+                "mime_codec_string": "vp09.00.40.08",
+                "width": 1920,
+                "height": 1080,
+                "coded_width": 1920,
+                "coded_height": 1080,
+                "has_b_frames": 0,
+                "sample_aspect_ratio": "1:1",
+                "display_aspect_ratio": "16:9",
+                "pix_fmt": "yuv420p",
+                "level": -99,
+                "color_range": "tv",
+                "chroma_location": "center",
+                "field_order": "progressive",
+                "r_frame_rate": "25/1",
+                "avg_frame_rate": "25/1",
+                "time_base": "1/1000",
+                "start_pts": 0,
+                "start_time": "0.000000",
+                "disposition": {
+                  "default": 1,
+                  "dub": 0,
+                  "original": 0,
+                  "comment": 0,
+                  "lyrics": 0,
+                  "karaoke": 0,
+                  "forced": 0,
+                  "hearing_impaired": 0,
+                  "visual_impaired": 0,
+                  "clean_effects": 0,
+                  "attached_pic": 0,
+                  "timed_thumbnails": 0,
+                  "non_diegetic": 0,
+                  "captions": 0,
+                  "descriptions": 0,
+                  "metadata": 0,
+                  "dependent": 0,
+                  "still_image": 0,
+                  "multilayer": 0
+                },
+                "tags": {
+                  "language": "eng",
+                  "ENCODER": "Lavc61.3.100 libvpx-vp9",
+                  "DURATION": "00:00:46.520000000"
+                }
+              }
+            ],
+            "format": {
+              "filename": "D:\\gravifire\\submission-footage\\scenes\\gravifire-m0-clean-completion.webm",
+              "nb_streams": 1,
+              "nb_programs": 0,
+              "nb_stream_groups": 0,
+              "format_name": "matroska,webm",
+              "format_long_name": "Matroska / WebM",
+              "start_time": "0.000000",
+              "duration": "46.520000",
+              "size": "10564300",
+              "bit_rate": "1816732",
+              "probe_score": 100,
+              "tags": {
+                "creation_time": "2026-11-13T10:50:25.514000Z",
+                "ENCODER": "Lavf61.1.100"
+              }
+            }
+          },
+          "bytes": 10564300,
+          "sha256": "f9f4aa69401bf14b524d27a391d6508471e86f79b3ffcd2ef9581440bfad02ec",
+          "fullDecode": "PASS",
+          "audioPresent": false,
+          "blackIntervals": [],
+          "decodeLog": "D:\\gravifire\\submission-footage\\scenes\\gravifire-m0-clean-completion-webm-decode.log"
+        },
+        {
+          "path": "D:\\gravifire\\submission-footage\\scenes\\gravifire-m0-clean-completion.mp4",
+          "metadata": {
+            "streams": [
+              {
+                "index": 0,
+                "codec_name": "h264",
+                "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+                "profile": "High",
+                "codec_type": "video",
+                "codec_tag_string": "avc1",
+                "codec_tag": "0x31637661",
+                "mime_codec_string": "avc1.640028",
+                "width": 1920,
+                "height": 1080,
+                "coded_width": 1920,
+                "coded_height": 1080,
+                "has_b_frames": 2,
+                "sample_aspect_ratio": "1:1",
+                "display_aspect_ratio": "16:9",
+                "pix_fmt": "yuv420p",
+                "level": 40,
+                "chroma_location": "center",
+                "field_order": "progressive",
+                "is_avc": "true",
+                "nal_length_size": "4",
+                "id": "0x1",
+                "r_frame_rate": "25/1",
+                "avg_frame_rate": "25/1",
+                "time_base": "1/12800",
+                "start_pts": 0,
+                "start_time": "0.000000",
+                "duration_ts": 595456,
+                "duration": "46.520000",
+                "bit_rate": "899217",
+                "bits_per_raw_sample": "8",
+                "nb_frames": "1163",
+                "extradata_size": 48,
+                "disposition": {
+                  "default": 1,
+                  "dub": 0,
+                  "original": 0,
+                  "comment": 0,
+                  "lyrics": 0,
+                  "karaoke": 0,
+                  "forced": 0,
+                  "hearing_impaired": 0,
+                  "visual_impaired": 0,
+                  "clean_effects": 0,
+                  "attached_pic": 0,
+                  "timed_thumbnails": 0,
+                  "non_diegetic": 0,
+                  "captions": 0,
+                  "descriptions": 0,
+                  "metadata": 0,
+                  "dependent": 0,
+                  "still_image": 0,
+                  "multilayer": 0
+                },
+                "tags": {
+                  "language": "eng",
+                  "handler_name": "VideoHandler",
+                  "encoder": "Lavc63.1.101 libx264"
+                }
+              }
+            ],
+            "format": {
+              "filename": "D:\\gravifire\\submission-footage\\scenes\\gravifire-m0-clean-completion.mp4",
+              "nb_streams": 1,
+              "nb_programs": 0,
+              "nb_stream_groups": 0,
+              "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+              "format_long_name": "QuickTime / MOV",
+              "start_time": "0.000000",
+              "duration": "46.520000",
+              "size": "5243389",
+              "bit_rate": "901700",
+              "probe_score": 100,
+              "tags": {
+                "major_brand": "isom",
+                "minor_version": "512",
+                "compatible_brands": "isomiso2avc1mp41",
+                "encoder": "Lavf63.1.101"
+              }
+            }
+          },
+          "bytes": 5243389,
+          "sha256": "c0b43f5574bb1974e33f896614a152ca8fbc02019a849b9f415157a5bdbaa0d7",
+          "fullDecode": "PASS",
+          "audioPresent": false,
+          "blackIntervals": [],
+          "decodeLog": "D:\\gravifire\\submission-footage\\scenes\\gravifire-m0-clean-completion-mp4-decode.log"
+        }
+      ]
+    }
+  ],
+  "visualReview": {
+    "status": "PASS_SAMPLED_ACTUAL_VIDEO",
+    "frames": [
+      "M4-sample-2-2.png at 39 s: sample 2-2, row-3 citation, counter 2/4",
+      "M4-sample-2-3.png at 54 s: sample 2-3, row-4 citation, counter 3/4",
+      "M4-before-2-4-click.png at 64 s: sample 2-4 and SOURCE REVIEW REQUIRED note",
+      "M4-analysis.png at 78 s: PSI-99 source comparison; four source rows reviewed message",
+      "M0-completion-ready.png at 44 s: evidence boundary and unactivated completion button"
+    ],
+    "directory": "D:\\gravifire\\submission-footage\\scenes\\pickup-validation-frames",
+    "unintendedErrorScreensObserved": false,
+    "exhaustiveHumanPlayback": false
+  },
+  "m4": {
+    "source": "SAFFIRE-II / PSI-99",
+    "samplesReviewed": [
+      "2-1",
+      "2-2",
+      "2-3",
+      "2-4"
+    ],
+    "missingSampleTargets": [
+      {
+        "id": "2-2",
+        "selected": true
+      },
+      {
+        "id": "2-3",
+        "selected": true
+      },
+      {
+        "id": "2-4",
+        "selected": true
+      }
+    ],
+    "result": "ALL_FOUR_SOURCE_ROWS_REVIEWED_REACHABLE_ANALYSIS",
+    "completionClaim": "All four source rows reviewed and reachable analysis state captured; campaign mission completion not claimed.",
+    "events": [
+      {
+        "seconds": 8.658,
+        "action": "Identify material",
+        "objective": "M4 · SILICONE: THE GASKET PARADOX\nREVIEW 1-g REFERENCE\n1-G REFERENCE ZONE"
+      },
+      {
+        "seconds": 15.044,
+        "action": "Review ground record",
+        "objective": "M4 · SILICONE: THE GASKET PARADOX\nREVIEW LOW-g FLIGHT RECORD\nLOW-G FLIGHT EVIDENCE ZONE"
+      },
+      {
+        "seconds": 21.033,
+        "action": "Review low-g source",
+        "objective": "M4 · SILICONE: THE GASKET PARADOX\nINSPECT SAMPLES 2-1 THROUGH 2-4\nSAMPLE WALL · 0 / 4"
+      },
+      {
+        "seconds": 26.457,
+        "action": "Review existing sample 2-1 for context",
+        "objective": "M4 · SILICONE: THE GASKET PARADOX\nINSPECT SAMPLES 2-1 THROUGH 2-4\nSAMPLE WALL · 1 / 4"
+      },
+      {
+        "seconds": 28.37,
+        "action": "Approach sample consoles past intervening bulkhead using real movement",
+        "objective": "M4 · SILICONE: THE GASKET PARADOX\nINSPECT SAMPLES 2-1 THROUGH 2-4\nSAMPLE WALL · 1 / 4"
+      },
+      {
+        "seconds": 33.101,
+        "action": "Actual canvas click on 2-2 at 860,618",
+        "objective": "M4 · SILICONE: THE GASKET PARADOX\nINSPECT SAMPLES 2-1 THROUGH 2-4\nSAMPLE WALL · 1 / 4"
+      },
+      {
+        "seconds": 38.124,
+        "action": "Actual canvas click on 2-2 at 860,718",
+        "objective": "M4 · SILICONE: THE GASKET PARADOX\nINSPECT SAMPLES 2-1 THROUGH 2-4\nSAMPLE WALL · 2 / 4"
+      },
+      {
+        "seconds": 47.644,
+        "action": "Actual canvas click on 2-3 at 936,622",
+        "objective": "M4 · SILICONE: THE GASKET PARADOX\nINSPECT SAMPLES 2-1 THROUGH 2-4\nSAMPLE WALL · 2 / 4"
+      },
+      {
+        "seconds": 52.801,
+        "action": "Actual canvas click on 2-3 at 936,722",
+        "objective": "M4 · SILICONE: THE GASKET PARADOX\nINSPECT SAMPLES 2-1 THROUGH 2-4\nSAMPLE WALL · 3 / 4"
+      },
+      {
+        "seconds": 62.234,
+        "action": "Actual canvas click on 2-4 at 997,625",
+        "objective": "M4 · SILICONE: THE GASKET PARADOX\nINSPECT SAMPLES 2-1 THROUGH 2-4\nSAMPLE WALL · 3 / 4"
+      },
+      {
+        "seconds": 67.209,
+        "action": "Actual canvas click on 2-4 at 997,725",
+        "objective": "M4 · SILICONE: THE GASKET PARADOX\nREVIEW SOURCE COMPARISON\nANALYSIS BAY · EVIDENCE REVIEW"
+      },
+      {
+        "seconds": 76.481,
+        "action": "Inspect analysis station",
+        "objective": "M4 · SILICONE: THE GASKET PARADOX\nREVIEW SOURCE COMPARISON\nANALYSIS BAY · EVIDENCE REVIEW"
+      },
+      {
+        "seconds": 80.87,
+        "action": "Final actual M4 objective",
+        "objective": "M4 · SILICONE: THE GASKET PARADOX\nREVIEW SOURCE COMPARISON\nANALYSIS BAY · EVIDENCE REVIEW"
+      }
+    ],
+    "errors": [],
+    "access": "Existing development review access without stage override; all objectives reached using keys and actual mouse clicks",
+    "preferredWebm": "D:\\gravifire\\submission-footage\\scenes\\gravifire-m4-remaining-samples.webm",
+    "identicalOriginalCopy": "D:\\gravifire\\submission-footage\\scenes\\gravifire-m4-console-approach.webm"
+  },
+  "m0": {
+    "result": "COMPLETION_READY_NOT_ACTIVATED",
+    "actualCompletionInCleanTake": false,
+    "explanation": "All three inspections and operational response reached using real controls. Stop before completion activation to avoid known post-completion navigation error. This take does not represent actual mission completion.",
+    "events": [
+      {
+        "seconds": 14.244,
+        "action": "Respond to incident",
+        "objective": "M0 · TWO SECONDS OF SMOKE\nINSPECT INCIDENT SYSTEMS · 0 / 3\nINCIDENT BAY · FICTIONAL SCENE"
+      },
+      {
+        "seconds": 18.805,
+        "action": "Inspect heater",
+        "objective": "M0 · TWO SECONDS OF SMOKE\nINSPECT INCIDENT SYSTEMS · 1 / 3\nINCIDENT BAY · FICTIONAL SCENE"
+      },
+      {
+        "seconds": 21.631,
+        "action": "Inspect garment",
+        "objective": "M0 · TWO SECONDS OF SMOKE\nINSPECT INCIDENT SYSTEMS · 2 / 3\nINCIDENT BAY · FICTIONAL SCENE"
+      },
+      {
+        "seconds": 24.662,
+        "action": "Inspect vent, beyond garment interaction radius",
+        "objective": "M0 · TWO SECONDS OF SMOKE\nCHOOSE OPERATIONAL RESPONSE\nINCIDENT BAY · RESPONSE CONSOLE"
+      },
+      {
+        "seconds": 29.449,
+        "action": "Choose actual operational response",
+        "objective": "M0 · TWO SECONDS OF SMOKE\nREVIEW EVIDENCE LIMIT\nARCHIVE TERMINAL · EVIDENCE HANDOFF"
+      },
+      {
+        "seconds": 45.889,
+        "action": "Clean evidence-boundary endpoint; completion button intentionally not activated",
+        "objective": "M0 · TWO SECONDS OF SMOKE\nREVIEW EVIDENCE LIMIT\nARCHIVE TERMINAL · EVIDENCE HANDOFF"
+      }
+    ],
+    "originalExistingCompletionClipPreserved": true
+  },
+  "notes": [
+    "Preferred M4 WebM now contains the successful second take; unsuccessful first take moved without content changes to gravifire-m4-remaining-samples-attempt1.webm. Both native original capture folders remain intact.",
+    "No application code, scientific data, campaign schema, dependencies or running services modified. Fresh isolated profiles used; no localStorage edits.",
+    "MP4 copies are full-duration transcodes only, not an edited presentation. No montage, narration, music, fabricated frames or overlays added.",
+    "No new manual NVDA verification or release-readiness claim."
+  ]
+}

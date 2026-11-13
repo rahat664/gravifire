@@ -1,0 +1,614 @@
+{
+  "kind": "Raw capture validation; no submission or publishing",
+  "createdAt": "2026-11-13T10:31:24.892Z",
+  "continuous": true,
+  "sourceMaster": "D:\\gravifire\\submission-footage\\gravifire-complete-raw-master.webm",
+  "originalNativeFile": "D:\\gravifire\\submission-footage\\scenes\\page@6cda19c1b156cedc4849cad1c6ebefb6.webm",
+  "raw": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "vp9",
+        "codec_long_name": "Google VP9",
+        "profile": "Profile 0",
+        "codec_type": "video",
+        "codec_tag_string": "[0][0][0][0]",
+        "codec_tag": "0x0000",
+        "mime_codec_string": "vp09.00.40.08",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "has_b_frames": 0,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": -99,
+        "color_range": "tv",
+        "chroma_location": "center",
+        "field_order": "progressive",
+        "r_frame_rate": "25/1",
+        "avg_frame_rate": "25/1",
+        "time_base": "1/1000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "eng",
+          "ENCODER": "Lavc61.3.100 libvpx-vp9",
+          "DURATION": "00:08:24.960000000"
+        }
+      }
+    ],
+    "format": {
+      "filename": "D:\\gravifire\\submission-footage\\gravifire-complete-raw-master.webm",
+      "nb_streams": 1,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "matroska,webm",
+      "format_long_name": "Matroska / WebM",
+      "start_time": "0.000000",
+      "duration": "504.960000",
+      "size": "128678817",
+      "bit_rate": "2038637",
+      "probe_score": 100,
+      "tags": {
+        "creation_time": "2026-11-13T10:21:41.990000Z",
+        "ENCODER": "Lavf61.1.100"
+      }
+    }
+  },
+  "actualDurationSeconds": 504.96,
+  "wallClockCaptureSeconds": 503.92,
+  "timingNote": "Scene boundaries measured from browser page creation. Native recorder start/flush may differ slightly; inspect the supplied boundary samples before frame-accurate editing.",
+  "sceneCount": 15,
+  "expectedSceneCount": 15,
+  "audioPresent": false,
+  "width": 1920,
+  "height": 1080,
+  "frameRate": "25/1",
+  "files": [
+    {
+      "path": "D:\\gravifire\\submission-footage\\gravifire-complete-raw-master.webm",
+      "bytes": 128678817,
+      "fullDecode": "PASS",
+      "decodeLog": "D:\\gravifire\\submission-footage\\gravifire-complete-raw-master.webm.decode.log",
+      "blackIntervals": [
+        {
+          "startSeconds": 308.52,
+          "endSeconds": 309.48,
+          "durationSeconds": 0.96
+        }
+      ],
+      "sha256": "ac23de095261a85dca04fe53eb3eecc1cb44a66e2f0e7c69abcf062a82c35b6a"
+    },
+    {
+      "path": "D:\\gravifire\\submission-footage\\gravifire-complete-raw-master.mp4",
+      "bytes": 51927642,
+      "fullDecode": "PASS",
+      "decodeLog": "D:\\gravifire\\submission-footage\\gravifire-complete-raw-master.mp4.decode.log",
+      "blackIntervals": [],
+      "sha256": "42304c34932b2fd4611fb74b7286e87836885c47e659df6321f8d50b3a739dfc"
+    }
+  ],
+  "manualNvda": "DEFERRED; not retested",
+  "notes": [
+    "No captions, overlays, music, narration, trimming or montage added. Native source retained.",
+    "Playwright native recorder cadence is reported from ffprobe; no claim of 30 or 60 FPS.",
+    "Fresh isolated browser profile; existing user campaign state untouched."
+  ],
+  "mp4": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.640028",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "chroma_location": "center",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "25/1",
+        "avg_frame_rate": "25/1",
+        "time_base": "1/12800",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 6463488,
+        "duration": "504.960000",
+        "bit_rate": "820297",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "12624",
+        "extradata_size": 48,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "eng",
+          "handler_name": "VideoHandler",
+          "encoder": "Lavc63.1.101 libx264"
+        }
+      }
+    ],
+    "format": {
+      "filename": "D:\\gravifire\\submission-footage\\gravifire-complete-raw-master.mp4",
+      "nb_streams": 1,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "504.960000",
+      "size": "51927642",
+      "bit_rate": "822681",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf63.1.101"
+      }
+    }
+  },
+  "frameReview": "COMPLETED: sampled actual video frames; see masterVideoReview",
+  "originalNativeSha256": "ac23de095261a85dca04fe53eb3eecc1cb44a66e2f0e7c69abcf062a82c35b6a",
+  "originalNativeMatchesWebmMaster": true,
+  "masterVideoReview": {
+    "result": "PASS_WITH_DOCUMENTED_COVERAGE_LIMITATIONS",
+    "sceneMidpointsInspected": 15,
+    "sceneEndsInspected": 15,
+    "method": "Actual-video frame contact sheets, plus full-resolution B1 comparison, game sample wall, M6 refusal and flagged onboarding samples. Full decode scans of both masters.",
+    "recordingFailureObserved": false,
+    "blackDetectionReview": "308.52�309.48 s is onboarding over a dark loading scene, inspected at 308.8 s; not a missing frame or a usable gameplay shot.",
+    "manualFullDurationPlayback": "NOT PERFORMED; full decode and sampled visual review performed",
+    "frameDirectory": "D:\\gravifire\\submission-footage\\validation-frames"
+  },
+  "supplements": [
+    {
+      "sceneId": "GAME-02-SUPPLEMENT",
+      "video": "D:\\gravifire\\submission-footage\\scenes\\m0-supplement\\m0-real-progression.webm",
+      "mp4": "D:\\gravifire\\submission-footage\\scenes\\m0-supplement\\m0-real-progression.mp4",
+      "durationSeconds": 64.76,
+      "result": "M0_COMPLETION_PERSISTED_WITH_POST_COMPLETION_NAVIGATION_ERROR",
+      "issues": [
+        "After completion click, GRAVIFIRE could not load this view error screen. Visible at 42, 44, 46, 48 and 50 seconds. Do not use this interval as a successful navigation demonstration."
+      ],
+      "metadata": "D:\\gravifire\\submission-footage\\scenes\\m0-supplement\\capture.json",
+      "webmMetadata": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "vp9",
+            "codec_long_name": "Google VP9",
+            "profile": "Profile 0",
+            "codec_type": "video",
+            "codec_tag_string": "[0][0][0][0]",
+            "codec_tag": "0x0000",
+            "mime_codec_string": "vp09.00.40.08",
+            "width": 1920,
+            "height": 1080,
+            "coded_width": 1920,
+            "coded_height": 1080,
+            "has_b_frames": 0,
+            "sample_aspect_ratio": "1:1",
+            "display_aspect_ratio": "16:9",
+            "pix_fmt": "yuv420p",
+            "level": -99,
+            "color_range": "tv",
+            "chroma_location": "center",
+            "field_order": "progressive",
+            "r_frame_rate": "25/1",
+            "avg_frame_rate": "25/1",
+            "time_base": "1/1000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "eng",
+              "ENCODER": "Lavc61.3.100 libvpx-vp9",
+              "DURATION": "00:01:04.760000000"
+            }
+          }
+        ],
+        "format": {
+          "filename": "D:\\gravifire\\submission-footage\\scenes\\m0-supplement\\m0-real-progression.webm",
+          "nb_streams": 1,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "matroska,webm",
+          "format_long_name": "Matroska / WebM",
+          "start_time": "0.000000",
+          "duration": "64.760000",
+          "size": "11237751",
+          "bit_rate": "1388233",
+          "probe_score": 100,
+          "tags": {
+            "creation_time": "2026-11-13T10:30:16.461000Z",
+            "ENCODER": "Lavf61.1.100"
+          }
+        }
+      },
+      "mp4Metadata": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "mime_codec_string": "avc1.640028",
+            "width": 1920,
+            "height": 1080,
+            "coded_width": 1920,
+            "coded_height": 1080,
+            "has_b_frames": 2,
+            "sample_aspect_ratio": "1:1",
+            "display_aspect_ratio": "16:9",
+            "pix_fmt": "yuv420p",
+            "level": 40,
+            "chroma_location": "center",
+            "field_order": "progressive",
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "25/1",
+            "avg_frame_rate": "25/1",
+            "time_base": "1/12800",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 828928,
+            "duration": "64.760000",
+            "bit_rate": "687632",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "1619",
+            "extradata_size": 48,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "eng",
+              "handler_name": "VideoHandler",
+              "encoder": "Lavc63.1.101 libx264"
+            }
+          }
+        ],
+        "format": {
+          "filename": "D:\\gravifire\\submission-footage\\scenes\\m0-supplement\\m0-real-progression.mp4",
+          "nb_streams": 1,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "64.760000",
+          "size": "5586267",
+          "bit_rate": "690088",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "encoder": "Lavf63.1.101"
+          }
+        }
+      },
+      "fullDecode": "PASS: both formats decoded with ffmpeg exit 0",
+      "scientificBoundary": "Fictional incident, not a NASA experimental result",
+      "completionNavigation": "ERROR, excluded from valid demonstration; original footage retained"
+    }
+  ],
+  "browserMessages": {
+    "pageErrors": 0,
+    "consoleErrors": 0,
+    "clockDeprecationWarnings": 1,
+    "entityGuidDeprecationWarnings": 4
+  },
+  "sceneCoverage": [
+    {
+      "id": "WEB-01",
+      "status": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "WEB-02",
+      "status": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "WEB-03",
+      "status": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "WEB-04",
+      "status": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "WEB-05",
+      "status": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "WEB-06",
+      "status": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "WEB-07",
+      "status": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "WEB-08",
+      "status": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "WEB-09",
+      "status": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "WEB-10",
+      "status": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "GAME-01",
+      "status": "CAPTURED_SAMPLED_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "GAME-02",
+      "status": "PARTIAL",
+      "issues": [
+        "Completion button not reached through actual movement/interactions",
+        "Native blackdetect flagged 308.52�309.48 s; inspected frame shows genuine onboarding over dark initial scene, not missing video. Initial loading is retained, not a gameplay demonstration."
+      ]
+    },
+    {
+      "id": "GAME-03",
+      "status": "PARTIAL",
+      "issues": [
+        "Available initial-state gameplay recorded; campaign completion is not asserted"
+      ]
+    },
+    {
+      "id": "GAME-04",
+      "status": "PARTIAL",
+      "issues": [
+        "Keyboard interaction maps sample wall to 2-1; all-four-row review and mission completion not asserted"
+      ]
+    },
+    {
+      "id": "GAME-05",
+      "status": "PARTIAL",
+      "issues": [
+        "Reachable mission progression recorded; no campaign-wide completion claim"
+      ]
+    }
+  ],
+  "health": {
+    "port": 3000,
+    "pid": 21384,
+    "dashboardHttpStatus": 200,
+    "serviceRestarted": false
+  },
+  "validationStatus": "PLAYABLE_CONTINUOUS_MASTER_WITH_DOCUMENTED_PARTIAL_GAMEPLAY",
+  "initialCaptureSceneStatuses": [
+    {
+      "id": "WEB-01",
+      "startSeconds": 0.165,
+      "endSeconds": 15.016,
+      "completeness": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "WEB-02",
+      "startSeconds": 15.018,
+      "endSeconds": 41.352,
+      "completeness": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "WEB-03",
+      "startSeconds": 41.353,
+      "endSeconds": 101.754,
+      "completeness": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "WEB-04",
+      "startSeconds": 101.754,
+      "endSeconds": 126.111,
+      "completeness": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "WEB-05",
+      "startSeconds": 126.112,
+      "endSeconds": 161.252,
+      "completeness": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "WEB-06",
+      "startSeconds": 161.254,
+      "endSeconds": 184.442,
+      "completeness": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "WEB-07",
+      "startSeconds": 184.443,
+      "endSeconds": 202.534,
+      "completeness": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "WEB-08",
+      "startSeconds": 202.538,
+      "endSeconds": 226.279,
+      "completeness": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "WEB-09",
+      "startSeconds": 226.28,
+      "endSeconds": 289.189,
+      "completeness": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "WEB-10",
+      "startSeconds": 289.192,
+      "endSeconds": 298.696,
+      "completeness": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "GAME-01",
+      "startSeconds": 298.697,
+      "endSeconds": 308.364,
+      "completeness": "CAPTURED_PENDING_VIDEO_REVIEW",
+      "issues": []
+    },
+    {
+      "id": "GAME-02",
+      "startSeconds": 308.364,
+      "endSeconds": 351.823,
+      "completeness": "PARTIAL",
+      "issues": [
+        "Completion button not reached through actual movement/interactions"
+      ]
+    },
+    {
+      "id": "GAME-03",
+      "startSeconds": 351.826,
+      "endSeconds": 402.441,
+      "completeness": "PARTIAL",
+      "issues": [
+        "Available initial-state gameplay recorded; campaign completion is not asserted"
+      ]
+    },
+    {
+      "id": "GAME-04",
+      "startSeconds": 402.442,
+      "endSeconds": 449.345,
+      "completeness": "PARTIAL",
+      "issues": [
+        "Keyboard interaction maps sample wall to 2-1; all-four-row review and mission completion not asserted"
+      ]
+    },
+    {
+      "id": "GAME-05",
+      "startSeconds": 449.346,
+      "endSeconds": 503.919,
+      "completeness": "PARTIAL",
+      "issues": [
+        "Reachable mission progression recorded; no campaign-wide completion claim"
+      ]
+    }
+  ],
+  "checks": {
+    "masterExists": true,
+    "bothMastersFullyDecoded": true,
+    "originalPreservedByteIdentical": true,
+    "allSceneIdsAccounted": true,
+    "orderedSceneTimes": true,
+    "sameMasterDurations": true,
+    "audioAbsentInBoth": true
+  }
+}
