@@ -153,6 +153,8 @@ The core grounded assistant uses local evidence and does not need an external mo
 
 NASA datasets and third-party assets retain their original terms and attribution. See [asset credits](docs/ASSET_CREDITS.md). Local credentials, dependencies, build output and large media exports are excluded from version control.
 
+For disclosure of AI-assisted development and the current assistant's runtime behavior, see [AI Usage Declaration](AI_declaration.md).
+
 ---
 
 Built by **Team NeuraVesta** for NASA Space Apps Challenge 2026. The project supports evidence-based exploration of combustion research; it is not a NASA operational system or a safety certification.
