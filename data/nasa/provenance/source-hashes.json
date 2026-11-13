@@ -1,0 +1,1608 @@
+{
+  "generatedAt": "2026-10-06",
+  "files": [
+    {
+      "path": "src/data/nasa/raw/bass-ii/documents/TM-20210011385.pdf",
+      "sha256": "5ffa911fd9b6356f204646003fb9342e341810dcdfdf5cb15756e7f01ec5f770",
+      "sizeBytes": 48972416,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "src/data/nasa/raw/bass-ii/evidence/BASS_GMT50_SAMPLE_147_TEST_B1.mp4",
+      "sha256": "e82f64268c51efeea73a3f11e690a2f6e504845e980fb60356a6ef1584d273cd",
+      "sizeBytes": 5803980,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "src/data/nasa/raw/bass-ii/PSI-25_Experimental table_BASS-II.csv",
+      "sha256": "71e792bf6b5fb5ea620c5dd70fbbac05515992e12aefcf5dff47312caa48c042",
+      "sizeBytes": 16590,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "src/data/nasa/raw/flex-2/PSI-68_Experimental table_Flex2.csv",
+      "sha256": "cc57ad1bd9977aa13e7ac6c3aa618303012686e232b36c052c6a9f1a74e5f528",
+      "sizeBytes": 1029,
+      "family": "FLEX-2",
+      "psiId": "PSI-68"
+    },
+    {
+      "path": "src/data/nasa/raw/psi-69/PSI-69_Experimental table_FLEX.csv",
+      "sha256": "37c88ce8ae9391b7544ff630a45ce87543d04d317cdbfbed104fe7d5c27e1b96",
+      "sizeBytes": 24776,
+      "family": "FLEX",
+      "psiId": "PSI-69"
+    },
+    {
+      "path": "src/data/nasa/raw/saffire-i/PSI-98_Experimental table_SAFFIRE-1.csv",
+      "sha256": "c01f29c62455f0a3b512290ab85e5687ecded326733189f002f580368402308d",
+      "sizeBytes": 469,
+      "family": "SAFFIRE-I",
+      "psiId": "PSI-98"
+    },
+    {
+      "path": "src/data/nasa/raw/saffire-ii/PSI-99_Experimental table_SAFFIRE-2.csv",
+      "sha256": "3c24390b9ef86f3d1ebaab911a1a3cc95a8759aebf42062371370e6d4b31b8ac",
+      "sizeBytes": 1973,
+      "family": "SAFFIRE-II",
+      "psiId": "PSI-99"
+    },
+    {
+      "path": "src/data/nasa/raw/saffire-iii/PSI-100_Experimental table_SAFFIRE-3.csv",
+      "sha256": "4d3c717ec20dd0247db670b2784a9fd7d746788bc54a936f80693e48eb8cd117",
+      "sizeBytes": 239,
+      "family": "SAFFIRE-III",
+      "psiId": "PSI-100"
+    },
+    {
+      "path": "src/data/nasa/raw/same/PSI-102_Experimental table_SAME.csv",
+      "sha256": "268d1e121d2f211b124407dd32b9475617bd269ede2c2d1749441da3e949a2af",
+      "sizeBytes": 331,
+      "family": "SAME",
+      "psiId": "PSI-102"
+    },
+    {
+      "path": "src/data/nasa/raw/same-r/PSI-101_Experimental table_SAME-R.csv",
+      "sha256": "87164b7dc9168a4273c159f7a9f23699afbd06ad97b77974377e79b9bf8a3bef",
+      "sizeBytes": 5674,
+      "family": "SAME-R",
+      "psiId": "PSI-101"
+    },
+    {
+      "path": "src/data/nasa/raw/spice/PSI-107_Experimental table_Spice.csv",
+      "sha256": "fb0d7e60cf5367afb429089e9901d27288f78038efd26c8de1db4fbe04117136",
+      "sizeBytes": 31205,
+      "family": "SPICE",
+      "psiId": "PSI-107"
+    },
+    {
+      "path": "data/nasa/manifests/bass-ii-documents.json",
+      "sha256": "4e011020d9e700c7196aecd5a6c18391181b51d19872ab98222ee0860ca28aad",
+      "sizeBytes": 473,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "data/nasa/manifests/psi-100-saffire-iii.json",
+      "sha256": "b3ca3babdb9cf7139f8ec40bc5443270096dbd44babf179f83d8ae7a95e9ee35",
+      "sizeBytes": 243,
+      "family": "SAFFIRE-III",
+      "psiId": "PSI-100"
+    },
+    {
+      "path": "data/nasa/manifests/psi-101-same-r.json",
+      "sha256": "c0eddf3872819fbe23f0efb9db88db06dd160d18095b133cfa0df55a26972567",
+      "sizeBytes": 253,
+      "family": "SAME-R",
+      "psiId": "PSI-101"
+    },
+    {
+      "path": "data/nasa/manifests/psi-102-same.json",
+      "sha256": "ff0ffdf55476bd7b80440c4f46985068dc86dcc4d5f06802b11ecff92a7dc94b",
+      "sizeBytes": 301,
+      "family": "SAME",
+      "psiId": "PSI-102"
+    },
+    {
+      "path": "data/nasa/manifests/psi-102-same.processed.json",
+      "sha256": "a86681616b01a69ada9da39ad39adbc500cc606f7e00ad0803dafdb90d2f9341",
+      "sizeBytes": 630,
+      "family": "SAME",
+      "psiId": "PSI-102"
+    },
+    {
+      "path": "data/nasa/manifests/psi-107-spice.json",
+      "sha256": "2eec847725644976d281363491071c57e3ab72e7e936ccfc05110c323db057a7",
+      "sizeBytes": 313,
+      "family": "SPICE",
+      "psiId": "PSI-107"
+    },
+    {
+      "path": "data/nasa/manifests/psi-25-bass-ii.json",
+      "sha256": "7d4b8a5e5ebbb52efe6609ea7b304535f7092ad69ff2735449f0da7c38a63f84",
+      "sizeBytes": 316,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "data/nasa/manifests/psi-25-bass-ii.processed.json",
+      "sha256": "bf927de36c8433e822fc89a6477d0f0e851064340b105375eb8a4af38dc3eb11",
+      "sizeBytes": 643,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "data/nasa/manifests/psi-68-flex-2.json",
+      "sha256": "a871efa5ba9efd65c77616a38464938a46b6a1f892162c5e055fe5e2d8821a6f",
+      "sizeBytes": 239,
+      "family": "FLEX-2",
+      "psiId": "PSI-68"
+    },
+    {
+      "path": "data/nasa/manifests/psi-69-flex.json",
+      "sha256": "756b6483828f12cd21ebf85ff4b976c90d768ae961f86077fcd732b3ad8bd722",
+      "sizeBytes": 308,
+      "family": "FLEX",
+      "psiId": "PSI-69"
+    },
+    {
+      "path": "data/nasa/manifests/psi-98-saffire-i.json",
+      "sha256": "00c14e8172356d4001d64dd7385c19035853a74ca5e4037bb197f61bbf847a0f",
+      "sizeBytes": 299,
+      "family": "SAFFIRE-I",
+      "psiId": "PSI-98"
+    },
+    {
+      "path": "data/nasa/manifests/psi-99-saffire-ii.json",
+      "sha256": "52415a2dcbaf822e9b5674915269778ed847b52ba0c42b155eb4a42a00ae871e",
+      "sizeBytes": 239,
+      "family": "SAFFIRE-II",
+      "psiId": "PSI-99"
+    },
+    {
+      "path": "data/nasa/normalized/bass-ii/chunks.json",
+      "sha256": "45cc07999cac251a81b480e06429f67906a5016abc7826fea1c29c5612878b65",
+      "sizeBytes": 496743,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "data/nasa/normalized/bass-ii/claims.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "sizeBytes": 3,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "data/nasa/normalized/bass-ii/document-ingestion-report.json",
+      "sha256": "bb2006afc9f2eb0705553523b5a59d624e6d02027e4befa41d704cecbb3c6e25",
+      "sizeBytes": 293,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "data/nasa/normalized/bass-ii/document-links.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "sizeBytes": 3,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "data/nasa/normalized/bass-ii/documents.json",
+      "sha256": "85c55e1f3444bddbccee320359e4929e663a88f3dd9ae3d5418eff3964926005",
+      "sizeBytes": 800,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "data/nasa/normalized/bass-ii/evidence-assets.json",
+      "sha256": "5827086e2462ea1484611520e3e12b67bd847abf9fcc7faf3a69405ac987c9af",
+      "sizeBytes": 1090,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "data/nasa/normalized/bass-ii/ingestion-report.json",
+      "sha256": "8855b2040881a2771d87e704daaf4123a0e7c539bb7ffb74692aac9ed530bcfb",
+      "sizeBytes": 1021,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "data/nasa/normalized/bass-ii/pages.json",
+      "sha256": "8e94f4b7f41a40feb739f2e761050ecfbf50a934c01767b63e32de3c6a51051b",
+      "sizeBytes": 421265,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "data/nasa/normalized/bass-ii/rejected-runs.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "sizeBytes": 3,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "data/nasa/normalized/bass-ii/unmatched-evidence-assets.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "sizeBytes": 3,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "data/nasa/normalized/bass-ii/valid-runs.json",
+      "sha256": "731385defcd20ba7122807a408fe720b7737718803b20df237d6874e27ff9dea",
+      "sizeBytes": 545145,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "data/nasa/normalized/flex/ingestion-report.json",
+      "sha256": "978e0848f6b83a3c867e4b0d18042002ea6c57197361236e95d923561cfb7274",
+      "sizeBytes": 2050,
+      "family": "FLEX",
+      "psiId": "PSI-69"
+    },
+    {
+      "path": "data/nasa/normalized/flex/rejected-runs.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "sizeBytes": 3,
+      "family": "FLEX",
+      "psiId": "PSI-69"
+    },
+    {
+      "path": "data/nasa/normalized/flex/valid-runs.json",
+      "sha256": "7a9af6ba93dbd063335219cad94f081755e07fce37e688808550d2336670644f",
+      "sizeBytes": 2074522,
+      "family": "FLEX",
+      "psiId": "PSI-69"
+    },
+    {
+      "path": "data/nasa/normalized/flex-2/configurations.json",
+      "sha256": "204a69a742ab2b3438a758c213e029c076ffb99af88f10c1259e808124682be7",
+      "sizeBytes": 29737,
+      "family": "FLEX-2",
+      "psiId": "PSI-68"
+    },
+    {
+      "path": "data/nasa/normalized/flex-2/ingestion-report.json",
+      "sha256": "80d0a2fbcd3d6d172a7784905f01711c837c25f9c0da961b2541975e86dd465f",
+      "sizeBytes": 1492,
+      "family": "FLEX-2",
+      "psiId": "PSI-68"
+    },
+    {
+      "path": "data/nasa/normalized/flex-2/rejected-records.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "sizeBytes": 3,
+      "family": "FLEX-2",
+      "psiId": "PSI-68"
+    },
+    {
+      "path": "data/nasa/normalized/saffire-i/ingestion-report.json",
+      "sha256": "f16f1ae5169aca1db042f50f2830c98f594041b16f75b31ed634850e182a0dbc",
+      "sizeBytes": 692,
+      "family": "SAFFIRE-I",
+      "psiId": "PSI-98"
+    },
+    {
+      "path": "data/nasa/normalized/saffire-i/pretest-records.json",
+      "sha256": "2c2d58826d625230bba36dd675628afb6eae947d3a6c1633b25a750c983aaef2",
+      "sizeBytes": 3009,
+      "family": "SAFFIRE-I",
+      "psiId": "PSI-98"
+    },
+    {
+      "path": "data/nasa/normalized/saffire-i/rejected-runs.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "sizeBytes": 3,
+      "family": "SAFFIRE-I",
+      "psiId": "PSI-98"
+    },
+    {
+      "path": "data/nasa/normalized/saffire-i/valid-runs.json",
+      "sha256": "559edcc2685aafc3ccd3959fd84e89a8f98d46fdd861c73c06ed8f5a0936234f",
+      "sizeBytes": 8430,
+      "family": "SAFFIRE-I",
+      "psiId": "PSI-98"
+    },
+    {
+      "path": "data/nasa/normalized/saffire-ii/ingestion-report.json",
+      "sha256": "7ecf7adcaa189da3c3c7059e45fa76cb637c492269d1a255ea074d639883885d",
+      "sizeBytes": 2060,
+      "family": "SAFFIRE-II",
+      "psiId": "PSI-99"
+    },
+    {
+      "path": "data/nasa/normalized/saffire-ii/pretest-records.json",
+      "sha256": "e960333bd2456d917d02a0350512a1edab807037fcf26b1b868491cbadf7a303",
+      "sizeBytes": 3169,
+      "family": "SAFFIRE-II",
+      "psiId": "PSI-99"
+    },
+    {
+      "path": "data/nasa/normalized/saffire-ii/rejected-runs.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "sizeBytes": 3,
+      "family": "SAFFIRE-II",
+      "psiId": "PSI-99"
+    },
+    {
+      "path": "data/nasa/normalized/saffire-ii/source-notes.json",
+      "sha256": "c08ae12586c7ce5611d7450def5563abd9e3be9d0160a347945232be21602569",
+      "sizeBytes": 6082,
+      "family": "SAFFIRE-II",
+      "psiId": "PSI-99"
+    },
+    {
+      "path": "data/nasa/normalized/saffire-ii/valid-runs.json",
+      "sha256": "758c41dba8d5a44da6723f6a724c39590141a2e4c42af0054bf91fa63d5455a1",
+      "sizeBytes": 76960,
+      "family": "SAFFIRE-II",
+      "psiId": "PSI-99"
+    },
+    {
+      "path": "data/nasa/normalized/saffire-iii/ingestion-report.json",
+      "sha256": "90b0c5e2d1bd8ff67aefd5fff5ad9b138f98ba10b2e9215ad43ff1514e3d3471",
+      "sizeBytes": 1473,
+      "family": "SAFFIRE-III",
+      "psiId": "PSI-100"
+    },
+    {
+      "path": "data/nasa/normalized/saffire-iii/rejected-runs.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "sizeBytes": 3,
+      "family": "SAFFIRE-III",
+      "psiId": "PSI-100"
+    },
+    {
+      "path": "data/nasa/normalized/saffire-iii/source-conflicts.json",
+      "sha256": "22d1027a0024dce0d0c6fe00a31b906393e952a98997b4f94e1df72d462afd71",
+      "sizeBytes": 2985,
+      "family": "SAFFIRE-III",
+      "psiId": "PSI-100"
+    },
+    {
+      "path": "data/nasa/normalized/saffire-iii/valid-runs.json",
+      "sha256": "fcd60e86b6734e18141cdad2eff05c6e2dbef83d433c3c0bca8d8caa7bb65bf7",
+      "sizeBytes": 12252,
+      "family": "SAFFIRE-III",
+      "psiId": "PSI-100"
+    },
+    {
+      "path": "data/nasa/normalized/same/ingestion-report.json",
+      "sha256": "b45b85ddbb69dbd1b105fc125a325a00ed51448ace3e5a9e791b63cc014db8b1",
+      "sizeBytes": 797,
+      "family": "SAME",
+      "psiId": "PSI-102"
+    },
+    {
+      "path": "data/nasa/normalized/same/rejected-runs.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "sizeBytes": 3,
+      "family": "SAME",
+      "psiId": "PSI-102"
+    },
+    {
+      "path": "data/nasa/normalized/same/valid-runs.json",
+      "sha256": "5ec97dce776e04efbce0efa29d50b1db5e21fc4e70feb555ebf27035bebc8600",
+      "sizeBytes": 21202,
+      "family": "SAME",
+      "psiId": "PSI-102"
+    },
+    {
+      "path": "data/nasa/normalized/same-r/ingestion-report.json",
+      "sha256": "8a8ddaf4b696e31924ef093d367a1b30e0e1e40ae79ee22b276c096df64d2d5f",
+      "sizeBytes": 1393,
+      "family": "SAME-R",
+      "psiId": "PSI-101"
+    },
+    {
+      "path": "data/nasa/normalized/same-r/rejected-runs.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "sizeBytes": 3,
+      "family": "SAME-R",
+      "psiId": "PSI-101"
+    },
+    {
+      "path": "data/nasa/normalized/same-r/valid-runs.json",
+      "sha256": "e78f688e1d77da7487cf245ab6bfad70850e48227b1f751ae5ada60b19d4d07b",
+      "sizeBytes": 484418,
+      "family": "SAME-R",
+      "psiId": "PSI-101"
+    },
+    {
+      "path": "data/nasa/normalized/spice/ingestion-report.json",
+      "sha256": "f2f908f61b486fa2331ac87a92e67d9f7c21933cdae7c4f1053acad160824764",
+      "sizeBytes": 1734,
+      "family": "SPICE",
+      "psiId": "PSI-107"
+    },
+    {
+      "path": "data/nasa/normalized/spice/observations.json",
+      "sha256": "2a2cd750128e9c8000909ea19cfdcb2f7bf58a61db0d110dcc2f6903f8250f24",
+      "sizeBytes": 1599807,
+      "family": "SPICE",
+      "psiId": "PSI-107"
+    },
+    {
+      "path": "data/nasa/normalized/spice/rejected-records.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "sizeBytes": 3,
+      "family": "SPICE",
+      "psiId": "PSI-107"
+    },
+    {
+      "path": "psidata/dead_files.txt",
+      "sha256": "cdf21a213133364d01e44853fd70ef79a6c1fc019974a6a2156c7637afc19362",
+      "sizeBytes": 1722,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "psidata/download.py",
+      "sha256": "cb7c4bbad424f518a423807e8c7c4b1d613c78b63ef04b53432037cd101adce6",
+      "sizeBytes": 10497,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "psidata/manifests/PSI-25.json",
+      "sha256": "67016de7685c59be2b3895ef227045877e081b3c3afbc8761a9099bf3a736fbb",
+      "sizeBytes": 1258655,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "psidata/manifests/PSI-26.json",
+      "sha256": "58601c451105b5b4dce14a315678aa8b9776bc3a6b629d28fd9933e0ccd741bb",
+      "sizeBytes": 345133,
+      "family": "BASS",
+      "psiId": "PSI-26"
+    },
+    {
+      "path": "psidata/manifests/PSI-98.json",
+      "sha256": "715cf9e9da0e446afa9e8d1bd476c7a41ba163229b7d5fdf02940ce20ac44243",
+      "sizeBytes": 198014,
+      "family": "SAFFIRE-I",
+      "psiId": "PSI-98"
+    },
+    {
+      "path": "psidata/manifests/PSI-99.json",
+      "sha256": "8ef8a39a108a51a838fb7ecb610fb7dcc2b7daaddd83aaab18fa59236a4b9d91",
+      "sizeBytes": 215616,
+      "family": "SAFFIRE-II",
+      "psiId": "PSI-99"
+    },
+    {
+      "path": "psidata/metadata_zips/PSI-25_metadata_PSI_metadata_PSI-101_BASS-II (1).zip",
+      "sha256": "629faf104a8ff0e8d335f2527c019e740380163ea7f74b8ad754ae71f7da2559",
+      "sizeBytes": 13439,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "psidata/metadata_zips/PSI-25_metadata_PSI_metadata_PSI-101_BASS-II.zip",
+      "sha256": "629faf104a8ff0e8d335f2527c019e740380163ea7f74b8ad754ae71f7da2559",
+      "sizeBytes": 13439,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "psidata/PSI-25/Engineering Documents/PSI-25_Engineering Documents_BASS-II_Engineering Requirements.pptx",
+      "sha256": "08ab1b85ba606db728aafbb731d4a626cd3a655c59f020487c94eb1689ced4f4",
+      "sizeBytes": 1123356,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "psidata/PSI-25/Engineering Documents/PSI-25_Engineering Documents_BASS-II_Ops.docx",
+      "sha256": "76fb21a7c94b6f64dd8419a1993980b694ea8e8403e75268e8890a866e1c8d4a",
+      "sizeBytes": 1111856,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "psidata/PSI-25/Experimental table/PSI-25_Experimental table_BASS-II.csv",
+      "sha256": "71e792bf6b5fb5ea620c5dd70fbbac05515992e12aefcf5dff47312caa48c042",
+      "sizeBytes": 16590,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "psidata/PSI-25/metadata/PSI-25_metadata_PSI-101_BASS-II.zip",
+      "sha256": "7600f3a1abe25bc7bdeac38f7583457c4d46a326c511f981ee75fa3463a7edf5",
+      "sizeBytes": 17299,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "psidata/PSI-25/metadata/PSI-25_metadata_PSI_metadata_PSI-101_BASS-II.zip",
+      "sha256": "629faf104a8ff0e8d335f2527c019e740380163ea7f74b8ad754ae71f7da2559",
+      "sizeBytes": 13439,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "psidata/PSI-25/Reference Data/PSI-25_Reference Data_Fan calibration data.xlsx",
+      "sha256": "bc0dca3efdef44a7774d8dd37aebc0cedae8d67d7bae8c9cbde9590014a3c983",
+      "sizeBytes": 23973,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "psidata/PSI-25/Representative Image(s)/PSI-25_Representative Image(s)_BASS-II_flame testing.jpg",
+      "sha256": "aa0bf2369cf77833e95e353519e634ab5cbb5b2918db08849e9bde82267aade3",
+      "sizeBytes": 37525,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "psidata/PSI-26/metadata/PSI-26_metadata_PSI-102_BASS.zip",
+      "sha256": "1167ee239db24e7d73508b2d472e9bab9382211b596312167a2a6d24b4bcfc59",
+      "sizeBytes": 11647,
+      "family": "BASS",
+      "psiId": "PSI-26"
+    },
+    {
+      "path": "Gravifier_research/BASS-II/GRAVIFIRE_BASS-II_PSI-25_Deep_Research.md",
+      "sha256": "d9cec2df1710e1967b3422b39cd6b4b0a63c83984b67e8d6ee9456a4d9221586",
+      "sizeBytes": 38924,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "Gravifier_research/BASS-II/GRAVIFIRE_BASS-II_PSI-25_Deep_Research.pdf",
+      "sha256": "3862d3bd183d83913d8c502e4b7c673b23fc9ba6383fa688cea7c9146d25dc6d",
+      "sizeBytes": 150020,
+      "family": "BASS-II",
+      "psiId": "PSI-25"
+    },
+    {
+      "path": "Gravifier_research/BASS-II/GRAVIFIRE_BASS_PSI-26_Deep_Research.md",
+      "sha256": "dbb8f236ca738ca72861e52da985aa70b88cfde96a82368681723922a42dcd23",
+      "sizeBytes": 58137,
+      "family": "BASS",
+      "psiId": "PSI-26"
+    },
+    {
+      "path": "Gravifier_research/BASS-II/GRAVIFIRE_BASS_PSI-26_Deep_Research.pdf",
+      "sha256": "ed2633d1069fd7b584b4b31fee5b99ac9e1aa84d3a0f9b04c74bdb5b4dccd388",
+      "sizeBytes": 227970,
+      "family": "BASS",
+      "psiId": "PSI-26"
+    },
+    {
+      "path": "Gravifier_research/BASS-II/GRAVIFIRE_SAFFIRE-II_PSI-99_Deep_Research.md",
+      "sha256": "0484e62cac3aff864fc04f9e0edc814a00a0d9a382d3c616c640a187b4d36b1e",
+      "sizeBytes": 94477,
+      "family": "SAFFIRE-II",
+      "psiId": "PSI-99"
+    },
+    {
+      "path": "Gravifier_research/BASS-II/GRAVIFIRE_SAFFIRE-I_PSI-98_Deep_Research.md",
+      "sha256": "d5c870f6d92fd1723f90333e4d987797c2494165a520d7449a5aee2e0b84fb52",
+      "sizeBytes": 80474,
+      "family": "SAFFIRE-I",
+      "psiId": "PSI-98"
+    },
+    {
+      "path": "Gravifier_research/BASS-II/GRAVIFIRE_SAFFIRE-I_PSI-98_Deep_Research.pdf",
+      "sha256": "0e5827a9d597024246ac6109b597f6968c939d180c7b69ef8fbec57cad8333b0",
+      "sizeBytes": 328762,
+      "family": "SAFFIRE-I",
+      "psiId": "PSI-98"
+    },
+    {
+      "path": "Gravifier_research/evidence_store/exports/data_contract.json",
+      "sha256": "fa7eb07eeb40a4eb00642938f1159154a3246bf1de860a92417ce774373f54fb",
+      "sizeBytes": 694300,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/evidence_store/exports/r2_exit_checks.txt",
+      "sha256": "3dfe6551dbda16a68cd349949b328f86c5b6854910c28c9206b434bff2f31756",
+      "sizeBytes": 1566,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/evidence_store/gravifire_l1.db",
+      "sha256": "64ebad865f73dab0e176957c42da2d60b1c85feca2de73287491222317f702dd",
+      "sizeBytes": 589824,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/evidence_store/R2_CENSUS.md",
+      "sha256": "f24cdf5e81e14335dc9643a7f47964bdc436d23264237b58fad44194286c0a65",
+      "sizeBytes": 5394,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/evidence_store/series/q1_P98-S2.csv.gz",
+      "sha256": "996bf7cba822d42b319e6ea899caf380d563ec3e97912c84c689caf5d606720c",
+      "sizeBytes": 3215945,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/evidence_store/series/q1_P99-S1.csv.gz",
+      "sha256": "18736558fee4d54353414bd62181974e939b7cc33f9f46b78d2f0b2f44b6efe2",
+      "sizeBytes": 1854628,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/evidence_store/series/q1_P99-S2.csv.gz",
+      "sha256": "16af7e3d6033936b0001ef195cc50d40552106e9c7ae439ce9e16a57a1f57c95",
+      "sizeBytes": 2386911,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/evidence_store/series/q1_P99-S3.csv.gz",
+      "sha256": "4531f6d4c25d60c4bf166ba89bd8b69ca76037454090c5e609db77bd04b507fb",
+      "sizeBytes": 2363724,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/evidence_store/series/q1_P99-S4.csv.gz",
+      "sha256": "45d04e357cb41fedf82786d5a9c116a49de7038e0f1578868c7e9f0128062fd6",
+      "sizeBytes": 2372503,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/evidence_store/series/q1_P99-S5.csv.gz",
+      "sha256": "e722103b34eefbf52ed5618ea115057fe3ef10699eb031e41a52a0d8ea5e2cf8",
+      "sizeBytes": 1759695,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/evidence_store/series/q1_P99-S6.csv.gz",
+      "sha256": "b70b41d18601d06cc057d9fbb31c2dede9a589f8c4e7d49abde0dd9018c21f5d",
+      "sizeBytes": 1648705,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/evidence_store/series/q1_P99-S7.csv.gz",
+      "sha256": "c927aa3968e058fd1379a6577f9ef7f60ee11956c50137dc04d13be7291b4e57",
+      "sizeBytes": 2946214,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/evidence_store/series/q1_P99-S8.csv.gz",
+      "sha256": "f396ddd681e6969ea6a1bde677e06974a321bcd4c6052a7f5860a52d61abec61",
+      "sizeBytes": 3551658,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/evidence_store/series/q1_P99-S9.csv.gz",
+      "sha256": "22f7cd02ade1ff5113374c311ccafae2755d07071ed7596e24fd7fa4feebf0d4",
+      "sizeBytes": 4925019,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/evidence_store/series/q1_P99_TELEM_SaffireData.csv.gz",
+      "sha256": "1812b3d83771343597080bfd5c2feb2e50f0c60ff160bfc84a022167fe9ab20e",
+      "sizeBytes": 313571,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/outputs/q1_channel_manifests.json",
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "sizeBytes": 2,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/outputs/q1_P98-S2.csv.gz",
+      "sha256": "996bf7cba822d42b319e6ea899caf380d563ec3e97912c84c689caf5d606720c",
+      "sizeBytes": 3215945,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/outputs/q1_P99-S1.csv.gz",
+      "sha256": "18736558fee4d54353414bd62181974e939b7cc33f9f46b78d2f0b2f44b6efe2",
+      "sizeBytes": 1854628,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/outputs/q1_P99-S2.csv.gz",
+      "sha256": "16af7e3d6033936b0001ef195cc50d40552106e9c7ae439ce9e16a57a1f57c95",
+      "sizeBytes": 2386911,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/outputs/q1_P99-S3.csv.gz",
+      "sha256": "4531f6d4c25d60c4bf166ba89bd8b69ca76037454090c5e609db77bd04b507fb",
+      "sizeBytes": 2363724,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/outputs/q1_P99-S4.csv.gz",
+      "sha256": "45d04e357cb41fedf82786d5a9c116a49de7038e0f1578868c7e9f0128062fd6",
+      "sizeBytes": 2372503,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/outputs/q1_P99-S5.csv.gz",
+      "sha256": "e722103b34eefbf52ed5618ea115057fe3ef10699eb031e41a52a0d8ea5e2cf8",
+      "sizeBytes": 1759695,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/outputs/q1_P99-S6.csv.gz",
+      "sha256": "b70b41d18601d06cc057d9fbb31c2dede9a589f8c4e7d49abde0dd9018c21f5d",
+      "sizeBytes": 1648705,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/outputs/q1_P99-S7.csv.gz",
+      "sha256": "c927aa3968e058fd1379a6577f9ef7f60ee11956c50137dc04d13be7291b4e57",
+      "sizeBytes": 2946214,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/outputs/q1_P99-S8.csv.gz",
+      "sha256": "f396ddd681e6969ea6a1bde677e06974a321bcd4c6052a7f5860a52d61abec61",
+      "sizeBytes": 3551658,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/outputs/q1_P99-S9.csv.gz",
+      "sha256": "22f7cd02ade1ff5113374c311ccafae2755d07071ed7596e24fd7fa4feebf0d4",
+      "sizeBytes": 4925019,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/outputs/q1_P99_TELEM_SaffireData.csv.gz",
+      "sha256": "1812b3d83771343597080bfd5c2feb2e50f0c60ff160bfc84a022167fe9ab20e",
+      "sizeBytes": 313571,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/outputs/q1_schema_stats.csv",
+      "sha256": "88d99af2eb2e0bb5d8edfe7f5a8f152609bc76d31a3ca06a3ffa862a888390f5",
+      "sizeBytes": 569,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/outputs/q2_alignment_stats.csv",
+      "sha256": "e8234448eb5337ed0da5e809535290b43e667362068e66d16237212a591342d6",
+      "sizeBytes": 296,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/outputs/q4_s5_front.png",
+      "sha256": "67bb5f0caff218d913bf6b7f704722c9a3e07b9a75be84a44a3193e9328c3e76",
+      "sizeBytes": 67178,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/outputs/q4_s5_front_ok.csv",
+      "sha256": "04943fa35ab13ea51a546b03d68fd2c092cafe2fa96ae0f155215e8d27daa66c",
+      "sizeBytes": 386285,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/outputs/q4_s5_front_track.csv",
+      "sha256": "23428b131ec81b3dce6c9a7d457a5a83de377a21dc4c20df372aee41a7d31766",
+      "sizeBytes": 536586,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/outputs/q5_evidence_rows.csv",
+      "sha256": "e46f133f74b6224c23c76616c67c15eecaf29954a88a3b122168a925a12a5e04",
+      "sizeBytes": 279144,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/R1_FINDINGS.md",
+      "sha256": "95d8c45b632e92efc519f0f8d21db99f186d543fa94f76b9d2482f87930a0b70",
+      "sizeBytes": 8000,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/scripts/fetch_p98_s1_sensors.py",
+      "sha256": "b4ee93ed9ab1b13cfbfb68d8b6d38617276286d232ccc4f77dcbdbc1d9f70d26",
+      "sizeBytes": 1173,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/scripts/p98_header.py",
+      "sha256": "3615ac717b8cc736031f8535fe8e891eff818b56cd0815d206cb51ed301f02e7",
+      "sizeBytes": 569,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/scripts/q1_sensor_schema.py",
+      "sha256": "95fa5c7c6427b163cf31bf88a311b4b1c644756ddc2c907c28bac8d744013229",
+      "sizeBytes": 1918,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/scripts/q1_unified_timeseries.py",
+      "sha256": "80991eb6e3e1fec94182a59d8e0546e49b643038c27542ad8ce2070082746402",
+      "sizeBytes": 7520,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/scripts/q2_time_alignment.py",
+      "sha256": "56041e6897a2a48cf77bfbe40c59dc31ea0a4cfc4dea5523cfeb131d27d4b2c0",
+      "sizeBytes": 3908,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/scripts/q4_frame_recon.py",
+      "sha256": "0ca0701cfa0efe0ccbd8ca77e3d8e69fe5d1fa33e3743c3ea19dc2facc1be67f",
+      "sizeBytes": 1404,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/scripts/q4_s5_anchor.py",
+      "sha256": "630570e0db8a8c48fa0f3d014cbc3a246b17d27361eaf121d049010b6d42dee3",
+      "sizeBytes": 7295,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/scripts/q5_experimental_tables.py",
+      "sha256": "6cf30a848ee3333353f2968cea035ae1e767289cfa9ee89b81484dc54653f377",
+      "sizeBytes": 9759,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/scripts/r2_build_store.py",
+      "sha256": "29a7a08bb22e9590b4b02bd1fdc56b2f76ff7e6e26049d3dba4bf9df23461667",
+      "sizeBytes": 37607,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/scripts/r2_census.py",
+      "sha256": "1b84328919f10590284693c4a24c967b3e96cfb6ad8189b44019cdcde9bf3690",
+      "sizeBytes": 3130,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/scripts/r2_export_contract.py",
+      "sha256": "14efba805fd33a5db4b6ecfe19ca9b98aab22b7cffccf7d92fbb56910d969d25",
+      "sizeBytes": 4219,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/scripts/r2_extract_anchors.py",
+      "sha256": "4623eddc3f77a87ef1ea89dabf4fe7d736c24c619843ecbe352dfb316d96423f",
+      "sizeBytes": 3944,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/scripts/r2_matrix_header.py",
+      "sha256": "2cc46d3d5fe1eecc9455919699f1a4ee4297a2b6dac002dd8b5e9a7eece12236",
+      "sizeBytes": 591,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/scripts/r2_recon_xlsx.py",
+      "sha256": "e61d99003d28e7dcc90d3631b5d7c895a032b330b3411aef25f2d5fc3160c702",
+      "sizeBytes": 1089,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R1_data_interrogation/scripts/xlsx_recon.py",
+      "sha256": "6a6ff68a97dbe441c02583ad609a3f5fbad2b102fddc808c6b7e639690f4a7c7",
+      "sizeBytes": 1013,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R5_DIGEST_DATA.json",
+      "sha256": "b1ec1dd9319441b16db3a21994e0c9e74cdd6d42abc53eaba5c25cbd3e3cdb20",
+      "sizeBytes": 12547,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R5_FINDINGS_DIGEST.md",
+      "sha256": "c9e6c13c4218003df6333c57cafda00879f586af33f0c8221e76151440ce5663",
+      "sizeBytes": 11411,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R6_TRANSLATION/DEVELOPER_DOCUMENT.md",
+      "sha256": "7cf23ced2c0b0a32170b93af3474ed30c078d1ed8785e9caca9cc3774ecdfbc6",
+      "sizeBytes": 20736,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R6_TRANSLATION/r6_exit_checks.py",
+      "sha256": "a4bd6b5fa4dace09fac9bcbecb48c1f7ab2cf8c2fa1b553966489cf0d0b23765",
+      "sizeBytes": 3967,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R6_TRANSLATION/video_script_v2.md",
+      "sha256": "43f4bdad36bd712da3344b58a3d024ebaff62015b65211eac2c81438f4739b2f",
+      "sizeBytes": 8629,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S1C1-1465937149755.jpeg",
+      "sha256": "e99eebf927820b3ffd5002b0eaac6d861f8109efe988f188b2802cb2d3add923",
+      "sizeBytes": 43047,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S1C1-1465937348893.jpeg",
+      "sha256": "cf9b390d5f45e49b6038c7d127eec5e0bdc2cc59580f48c0551960f4a0112b64",
+      "sizeBytes": 36533,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S1C1-1465937541403.jpeg",
+      "sha256": "6aec0378ed7cc483ec80881478856025eb300924d980a6c7a46bb6cd4170d891",
+      "sizeBytes": 34861,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S1C2-1479773240574.jpeg",
+      "sha256": "956aff3c2f88d203cb5ec03e3b17462e34ef835f9efc0feacc801ae36f9aca5e",
+      "sizeBytes": 9685,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S1C2-1479773392561.jpeg",
+      "sha256": "b408046fee394c48f5e719718d21212890f1ee0a9664d65699a1b1e5baace930",
+      "sizeBytes": 12088,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S1C2-1479773544549.jpeg",
+      "sha256": "6ed67aa088522d8f76a56b49723bc6ba22f4a0117c2278d44f26092ebd2a8711",
+      "sizeBytes": 6457,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S2C2-1479773722620.jpeg",
+      "sha256": "69ed0ca0f65d534b823f6f8a4709228a97384b699ab3b3a8d689ef6ae4eea007",
+      "sizeBytes": 12239,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S2C2-1479773922604.jpeg",
+      "sha256": "1c32ad525eee648b085ef6c538ef719d19023d3a29c796d5c46e1046886fb741",
+      "sizeBytes": 11961,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S2C2-1479774122587.jpeg",
+      "sha256": "e6d2358ae9038506f4f068928bfcf3da168f2d84118d317dff003111fa39474c",
+      "sizeBytes": 13703,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S4C1-1479774902677.jpeg",
+      "sha256": "44ba3700a96ba379dbc0220b3e77b8aa2bae849a704bf3efef0f62d16b0357bd",
+      "sizeBytes": 5211,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S4C1-1479775102660.jpeg",
+      "sha256": "c8f7854dd9f105461e33aee187fc69524162c1283c2286252c2106cbaa293231",
+      "sizeBytes": 3580,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S4C1-1479775302642.jpeg",
+      "sha256": "8cea4c39519613371b2e235a29996d21fb23d30e0e7241f210cfd403a85cbe25",
+      "sizeBytes": 2233,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S5C1-1479775474718.jpeg",
+      "sha256": "e57ee17966113b73ea9d304cf4ce75ee5f7bfd0ced7b01ed1be4ad9a1220207f",
+      "sizeBytes": 9521,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S5C1-1479775602706.jpeg",
+      "sha256": "47c27b99dd64ae9f0ff5f5cc49eeec50439d9f415dd9ee07940a30af9e16ff8f",
+      "sizeBytes": 19911,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S5C1-1479775730695.jpeg",
+      "sha256": "a1267778e840d970eda91e517bf62472ed5f0f36348f050dcaf2aa6293bbd922",
+      "sizeBytes": 7562,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S5C2-1479775459386.jpeg",
+      "sha256": "291eaf4345e24e74aef5d5f7551231e74bbdb38367a18985f09b8d8305a1c5ee",
+      "sizeBytes": 3608,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S5C2-1479775526047.jpeg",
+      "sha256": "2c6cbdf7370ea9769317d7f65f7b2221e68b0972240acd2cd0bd502adf38582b",
+      "sizeBytes": 3515,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S5C2-1479775592708.jpeg",
+      "sha256": "1c315f08a8335cff53aeee62003905d056b3a2ab332c4aca5216af618194ecee",
+      "sizeBytes": 9014,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S6C1-1479775884758.jpeg",
+      "sha256": "c38033bc048c2d73c049186e2d8cb296c49980b05cc212cc49087229846e7bc7",
+      "sizeBytes": 12304,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S6C1-1479776012746.jpeg",
+      "sha256": "f5229183b59d14291a8a0ec7c01a81abf48b5fad6a07db2043f023f32b9d53b7",
+      "sizeBytes": 24405,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S6C1-1479776140735.jpeg",
+      "sha256": "96a73dab0e1dfd5615d05628f9fae7e5167135272083f6d5f092fa8d731a06a2",
+      "sizeBytes": 14998,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S9C1-1479780736517.jpeg",
+      "sha256": "732d5d8ce77029dee1c7db6e47f41139e868bb3a79b9b524f00491da1335afd5",
+      "sizeBytes": 4084,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S9C1-1479781122464.jpeg",
+      "sha256": "9d21de1e173c47331cbb5997d0281b5904e83a2e0c1e0e96b4c2ca84ed1bedd7",
+      "sizeBytes": 5259,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/Mapped_S9C1-1479781508432.jpeg",
+      "sha256": "88e7dd0623ec45581ef069fe3ea938982170757158a5988b902972ba55c2e9ab",
+      "sizeBytes": 8516,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/S3C2-1479774462628.jpeg",
+      "sha256": "ef456383490402a4da15c5c1a2734cb077284a491ce29bb69a3e912463dcb553",
+      "sizeBytes": 9815,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/S3C2-1479774595950.jpeg",
+      "sha256": "ac4d00568e8a50b3c0222cbf9de81d01a8df3fca3cd16f141af6defa5eaa3ff4",
+      "sizeBytes": 5616,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/dossier_frames/S3C2-1479774729273.jpeg",
+      "sha256": "f87fa350bc32a49d3b1f8056211e59e95ea494c6530701ccca61f4bad77d074d",
+      "sizeBytes": 2219,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/assets/frames_manifest.md",
+      "sha256": "a86df08f51c0d521fc40121b22510debcd54fd164ed84acb0bd2dc7a41d0b21f",
+      "sizeBytes": 8326,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/digest/R5_DIGEST_DATA.json",
+      "sha256": "b1ec1dd9319441b16db3a21994e0c9e74cdd6d42abc53eaba5c25cbd3e3cdb20",
+      "sizeBytes": 12547,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/digest/R5_FINDINGS_DIGEST.md",
+      "sha256": "c9e6c13c4218003df6333c57cafda00879f586af33f0c8221e76151440ce5663",
+      "sizeBytes": 11411,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/docs/DEVELOPER_DOCUMENT.md",
+      "sha256": "7cf23ced2c0b0a32170b93af3474ed30c078d1ed8785e9caca9cc3774ecdfbc6",
+      "sizeBytes": 20736,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/docs/game_story_and_choices.md",
+      "sha256": "859ac58d1aad714ddd4c25ffabcc45d050894fdcf24e54f5c5002bca18bd14e5",
+      "sizeBytes": 24556,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/docs/material_catalog_and_experiment_game.md",
+      "sha256": "5b7f7135f86f8f8d89ae2f5c31ce9cec8c82142625677c6647015e5218ff3d31",
+      "sizeBytes": 13091,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/docs/R1_FINDINGS.md",
+      "sha256": "95d8c45b632e92efc519f0f8d21db99f186d543fa94f76b9d2482f87930a0b70",
+      "sizeBytes": 8000,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/docs/R4_VALIDATION_REPORT.md",
+      "sha256": "17d025f0e169ef66bebad678e74890e226a138d89d37d28dd80573fb17308777",
+      "sizeBytes": 6220,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/engine/engine.py",
+      "sha256": "1630d8ae93b31d745f677e52cfe84205c2c8689c026b7c6de8f27cce275a9ba3",
+      "sizeBytes": 26065,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/engine/literature_register.json",
+      "sha256": "a8209e7c20630d25cb9f7139599150c5cf13b58c40bbad32dcf7e33ec50e4909",
+      "sizeBytes": 3691,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/engine/outputs/r4_holdout_stamp.json",
+      "sha256": "4a34f70fa44bbf363145aa60891a39ea95a82e25837dd4f4cee0586ea6e12079",
+      "sizeBytes": 295,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/engine/outputs/r4_tier1_anchors.json",
+      "sha256": "3002c575fd8a598f12a625a660a827a37b20ee5900ad3ee50e5d923c7bdf038d",
+      "sizeBytes": 4118,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/engine/outputs/r4_tier2_holdout.json",
+      "sha256": "8f06d08185229fa71cbc6fa9ff0b6ea2aa2aa0b8b0e38b9d40cf39e2f37a598b",
+      "sizeBytes": 1549,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/engine/outputs/r4_tier3_provenance.json",
+      "sha256": "1c33fb599d4bdfc390a53b75fd83f26b3bb364902d0f6fff6c31edddb54087f4",
+      "sizeBytes": 2896,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/engine/outputs/seed_verdicts.json",
+      "sha256": "b2f9603e1bfb744916118a6cc88dbefa59c55d6dc935142e43500485825fabd0",
+      "sizeBytes": 35835,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/engine/outputs/seed_verdicts.md",
+      "sha256": "fc39fd8f9246b60f4550f7d12836edae872c99409da00b9f14b7261b64acebc6",
+      "sizeBytes": 1571,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/engine/run_r3.py",
+      "sha256": "b74b62a405a518d890d11f5f65b2d3b1c617288c2316097c7907f3ddb0340dcc",
+      "sizeBytes": 4802,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/engine/scenario_input_spec.md",
+      "sha256": "0635d8caaa76f340d4cd1fa13ee0fde2d21e9953ebd8b281b3c94ca0e6d32308",
+      "sizeBytes": 3496,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/engine/seed_claims.json",
+      "sha256": "95b11506d09600d49e061f8360d49b34793c01fe0a84f80ac8baf56831804600",
+      "sizeBytes": 12216,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/engine/verdict_spec.md",
+      "sha256": "5617203a505be521ceb5c463f34b98c9dc05050f33b297d035402044362103fa",
+      "sizeBytes": 8479,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/missions/M1.json",
+      "sha256": "016cf5cb833e6318c85984b2954fc81cad5652cee8ce1fb652a836a2b24a7b89",
+      "sizeBytes": 19868,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/missions/mission_schema.md",
+      "sha256": "0b630d65974ab2359e76ee3ced8237df178baebad27def79bf26ffd631c6f5af",
+      "sizeBytes": 4668,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/numbers_whitelist.json",
+      "sha256": "be39e3291c966cdf3097dc7cb24610d97bcb07d7da4b21807ccf6e07c75cc473",
+      "sizeBytes": 13892,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/README.md",
+      "sha256": "46f94d78e08ff46c5834d41986b0669bdd9833aa1ccab47e0d12ff0bb831883e",
+      "sizeBytes": 2855,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/store/exports/data_contract.json",
+      "sha256": "fa7eb07eeb40a4eb00642938f1159154a3246bf1de860a92417ce774373f54fb",
+      "sizeBytes": 694300,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/store/exports/r2_exit_checks.txt",
+      "sha256": "3dfe6551dbda16a68cd349949b328f86c5b6854910c28c9206b434bff2f31756",
+      "sizeBytes": 1566,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/store/gravifire_l1.db",
+      "sha256": "64ebad865f73dab0e176957c42da2d60b1c85feca2de73287491222317f702dd",
+      "sizeBytes": 589824,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/store/R2_CENSUS.md",
+      "sha256": "f24cdf5e81e14335dc9643a7f47964bdc436d23264237b58fad44194286c0a65",
+      "sizeBytes": 5394,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/store/series/q1_P98-S2.csv.gz",
+      "sha256": "996bf7cba822d42b319e6ea899caf380d563ec3e97912c84c689caf5d606720c",
+      "sizeBytes": 3215945,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/store/series/q1_P99-S1.csv.gz",
+      "sha256": "18736558fee4d54353414bd62181974e939b7cc33f9f46b78d2f0b2f44b6efe2",
+      "sizeBytes": 1854628,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/store/series/q1_P99-S2.csv.gz",
+      "sha256": "16af7e3d6033936b0001ef195cc50d40552106e9c7ae439ce9e16a57a1f57c95",
+      "sizeBytes": 2386911,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/store/series/q1_P99-S3.csv.gz",
+      "sha256": "4531f6d4c25d60c4bf166ba89bd8b69ca76037454090c5e609db77bd04b507fb",
+      "sizeBytes": 2363724,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/store/series/q1_P99-S4.csv.gz",
+      "sha256": "45d04e357cb41fedf82786d5a9c116a49de7038e0f1578868c7e9f0128062fd6",
+      "sizeBytes": 2372503,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/store/series/q1_P99-S5.csv.gz",
+      "sha256": "e722103b34eefbf52ed5618ea115057fe3ef10699eb031e41a52a0d8ea5e2cf8",
+      "sizeBytes": 1759695,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/store/series/q1_P99-S6.csv.gz",
+      "sha256": "b70b41d18601d06cc057d9fbb31c2dede9a589f8c4e7d49abde0dd9018c21f5d",
+      "sizeBytes": 1648705,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/store/series/q1_P99-S7.csv.gz",
+      "sha256": "c927aa3968e058fd1379a6577f9ef7f60ee11956c50137dc04d13be7291b4e57",
+      "sizeBytes": 2946214,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/store/series/q1_P99-S8.csv.gz",
+      "sha256": "f396ddd681e6969ea6a1bde677e06974a321bcd4c6052a7f5860a52d61abec61",
+      "sizeBytes": 3551658,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/store/series/q1_P99-S9.csv.gz",
+      "sha256": "22f7cd02ade1ff5113374c311ccafae2755d07071ed7596e24fd7fa4feebf0d4",
+      "sizeBytes": 4925019,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/store/series/q1_P99_TELEM_SaffireData.csv.gz",
+      "sha256": "1812b3d83771343597080bfd5c2feb2e50f0c60ff160bfc84a022167fe9ab20e",
+      "sizeBytes": 313571,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/R7_HANDOVER/verify_bundle.py",
+      "sha256": "fb34017b8360c2dae943bb578bd69807f6c6cab1098f03992b297c4f3769e4b0",
+      "sizeBytes": 5358,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/solution_prior_art_scan.md",
+      "sha256": "adee2e7e62bde09394593bdeb6a16053366d0b0600bd74fdfe24a8df39b39ebe",
+      "sizeBytes": 9159,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/engine.py",
+      "sha256": "1630d8ae93b31d745f677e52cfe84205c2c8689c026b7c6de8f27cce275a9ba3",
+      "sizeBytes": 26065,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/literature_register.json",
+      "sha256": "a8209e7c20630d25cb9f7139599150c5cf13b58c40bbad32dcf7e33ec50e4909",
+      "sizeBytes": 3691,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/outputs/blind_store.db",
+      "sha256": "e67598372a5a3c01dc3d6058fcb93b6dbedb36e51b394c00f92aafa56f6b00ba",
+      "sizeBytes": 593920,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/outputs/r4_holdout_stamp.json",
+      "sha256": "4a34f70fa44bbf363145aa60891a39ea95a82e25837dd4f4cee0586ea6e12079",
+      "sizeBytes": 295,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/outputs/r4_tier1_anchors.json",
+      "sha256": "3002c575fd8a598f12a625a660a827a37b20ee5900ad3ee50e5d923c7bdf038d",
+      "sizeBytes": 4118,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/outputs/r4_tier2_holdout.json",
+      "sha256": "8f06d08185229fa71cbc6fa9ff0b6ea2aa2aa0b8b0e38b9d40cf39e2f37a598b",
+      "sizeBytes": 1549,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/outputs/r4_tier3_provenance.json",
+      "sha256": "1c33fb599d4bdfc390a53b75fd83f26b3bb364902d0f6fff6c31edddb54087f4",
+      "sizeBytes": 2896,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/outputs/seed_verdicts.json",
+      "sha256": "b2f9603e1bfb744916118a6cc88dbefa59c55d6dc935142e43500485825fabd0",
+      "sizeBytes": 35835,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/outputs/seed_verdicts.md",
+      "sha256": "fc39fd8f9246b60f4550f7d12836edae872c99409da00b9f14b7261b64acebc6",
+      "sizeBytes": 1571,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/R4_VALIDATION_REPORT.md",
+      "sha256": "17d025f0e169ef66bebad678e74890e226a138d89d37d28dd80573fb17308777",
+      "sizeBytes": 6220,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/run_r3.py",
+      "sha256": "b74b62a405a518d890d11f5f65b2d3b1c617288c2316097c7907f3ddb0340dcc",
+      "sizeBytes": 4802,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/scenario_input_spec.md",
+      "sha256": "0635d8caaa76f340d4cd1fa13ee0fde2d21e9953ebd8b281b3c94ca0e6d32308",
+      "sizeBytes": 3496,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/scripts/r4_pdms_diag.py",
+      "sha256": "9eafb1b4a16dccfa0db6043d85366354c47a935f3d6a72bda97f36ccf23e7355",
+      "sizeBytes": 964,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/scripts/r4_s6_diag.py",
+      "sha256": "27f179f26b1b20eded6625c0d11868b57c5c2a7dbe4d160b2e1c408d3b722c04",
+      "sizeBytes": 939,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/scripts/r4_tier1_anchors.py",
+      "sha256": "137f63a0ade51ac381e7591cbd80c2bfd352dc6e91440b786f3f6655d888e0ab",
+      "sizeBytes": 12114,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/scripts/r4_tier2_holdout.py",
+      "sha256": "eb463e58abef97cad8ae6c27c448cdd7521fcff37e6d43662f844503940d402a",
+      "sizeBytes": 5565,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/scripts/r4_tier3_provenance.py",
+      "sha256": "13a043093435029e0ccaf24ad9460fdf4c080627d83669bae9ff24e00e25872c",
+      "sizeBytes": 7153,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/scripts/r5_build_digest.py",
+      "sha256": "24e06290aa674d610d4888168f2cbb8a4adab47cff0afb35ed10f795fe3b7d6e",
+      "sizeBytes": 5254,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/scripts/r5_exit_checks.py",
+      "sha256": "a84077f9ce8eb6e012ec2b37fa5f6cf8d50e417496b19be88d120f27a699491e",
+      "sizeBytes": 3573,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/seed_claims.json",
+      "sha256": "95b11506d09600d49e061f8360d49b34793c01fe0a84f80ac8baf56831804600",
+      "sizeBytes": 12216,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/VERDICT_REVIEW.md",
+      "sha256": "fd1def3ea3e6368b7a859d0dcc41e4cabb7093da870459ce4ef556cc855447ba",
+      "sizeBytes": 5605,
+      "family": "Cross-family / archive",
+      "psiId": null
+    },
+    {
+      "path": "Gravifier_research/verdict_engine/verdict_spec.md",
+      "sha256": "5617203a505be521ceb5c463f34b98c9dc05050f33b297d035402044362103fa",
+      "sizeBytes": 8479,
+      "family": "Cross-family / archive",
+      "psiId": null
+    }
+  ]
+}

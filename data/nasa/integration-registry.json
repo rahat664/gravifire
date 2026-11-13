@@ -1,0 +1,202 @@
+{
+  "generatedAt": "2026-10-06",
+  "families": [
+    {
+      "id": "bass-ii",
+      "displayName": "BASS-II",
+      "psiId": "PSI-25",
+      "sourcePaths": [
+        "src/data/nasa/raw/bass-ii/documents/TM-20210011385.pdf",
+        "src/data/nasa/raw/bass-ii/evidence/BASS_GMT50_SAMPLE_147_TEST_B1.mp4",
+        "src/data/nasa/raw/bass-ii/PSI-25_Experimental table_BASS-II.csv",
+        "data/nasa/manifests/bass-ii-documents.json",
+        "data/nasa/manifests/psi-25-bass-ii.json",
+        "data/nasa/manifests/psi-25-bass-ii.processed.json",
+        "psidata/manifests/PSI-25.json",
+        "psidata/metadata_zips/PSI-25_metadata_PSI_metadata_PSI-101_BASS-II (1).zip",
+        "psidata/metadata_zips/PSI-25_metadata_PSI_metadata_PSI-101_BASS-II.zip",
+        "psidata/PSI-25/Engineering Documents/PSI-25_Engineering Documents_BASS-II_Engineering Requirements.pptx",
+        "psidata/PSI-25/Engineering Documents/PSI-25_Engineering Documents_BASS-II_Ops.docx",
+        "psidata/PSI-25/Experimental table/PSI-25_Experimental table_BASS-II.csv",
+        "psidata/PSI-25/metadata/PSI-25_metadata_PSI-101_BASS-II.zip",
+        "psidata/PSI-25/metadata/PSI-25_metadata_PSI_metadata_PSI-101_BASS-II.zip",
+        "psidata/PSI-25/Reference Data/PSI-25_Reference Data_Fan calibration data.xlsx",
+        "psidata/PSI-25/Representative Image(s)/PSI-25_Representative Image(s)_BASS-II_flame testing.jpg",
+        "Gravifier_research/BASS-II/GRAVIFIRE_BASS-II_PSI-25_Deep_Research.md",
+        "Gravifier_research/BASS-II/GRAVIFIRE_BASS-II_PSI-25_Deep_Research.pdf"
+      ],
+      "runtimeRecords": 129,
+      "rejectedRecords": 0,
+      "status": "FULLY_INGESTED",
+      "evidenceTypes": [
+        "EXPERIMENTAL_RUN"
+      ],
+      "limitations": []
+    },
+    {
+      "id": "bass",
+      "displayName": "BASS",
+      "psiId": "PSI-26",
+      "sourcePaths": [
+        "psidata/manifests/PSI-26.json",
+        "psidata/PSI-26/metadata/PSI-26_metadata_PSI-102_BASS.zip",
+        "Gravifier_research/BASS-II/GRAVIFIRE_BASS_PSI-26_Deep_Research.md",
+        "Gravifier_research/BASS-II/GRAVIFIRE_BASS_PSI-26_Deep_Research.pdf"
+      ],
+      "runtimeRecords": 0,
+      "rejectedRecords": 0,
+      "status": "SOURCE_AVAILABLE_BUT_NOT_INGESTED",
+      "evidenceTypes": [
+        "EXPERIMENTAL_RUN"
+      ],
+      "limitations": []
+    },
+    {
+      "id": "flex-2",
+      "displayName": "FLEX-2",
+      "psiId": "PSI-68",
+      "sourcePaths": [
+        "src/data/nasa/raw/flex-2/PSI-68_Experimental table_Flex2.csv",
+        "data/nasa/manifests/psi-68-flex-2.json"
+      ],
+      "runtimeRecords": 8,
+      "rejectedRecords": 0,
+      "status": "FULLY_INGESTED",
+      "evidenceTypes": [
+        "EXPERIMENT_CONFIGURATION_ENVELOPE"
+      ],
+      "limitations": [
+        "The source defines configuration space; no Cartesian product or run count was generated."
+      ]
+    },
+    {
+      "id": "flex",
+      "displayName": "FLEX",
+      "psiId": "PSI-69",
+      "sourcePaths": [
+        "src/data/nasa/raw/psi-69/PSI-69_Experimental table_FLEX.csv",
+        "data/nasa/manifests/psi-69-flex.json"
+      ],
+      "runtimeRecords": 274,
+      "rejectedRecords": 0,
+      "status": "FULLY_INGESTED",
+      "evidenceTypes": [
+        "EXPERIMENTAL_RUN"
+      ],
+      "limitations": [
+        "SOURCE_HEADER_UNIT_LOSS",
+        "SOURCE_GAS_LABEL_SEMANTIC_MAPPING"
+      ]
+    },
+    {
+      "id": "saffire-i",
+      "displayName": "SAFFIRE-I",
+      "psiId": "PSI-98",
+      "sourcePaths": [
+        "src/data/nasa/raw/saffire-i/PSI-98_Experimental table_SAFFIRE-1.csv",
+        "data/nasa/manifests/psi-98-saffire-i.json",
+        "psidata/manifests/PSI-98.json",
+        "Gravifier_research/BASS-II/GRAVIFIRE_SAFFIRE-I_PSI-98_Deep_Research.md",
+        "Gravifier_research/BASS-II/GRAVIFIRE_SAFFIRE-I_PSI-98_Deep_Research.pdf"
+      ],
+      "runtimeRecords": 2,
+      "rejectedRecords": 0,
+      "status": "FULLY_INGESTED",
+      "evidenceTypes": [
+        "EXPERIMENTAL_RUN"
+      ],
+      "limitations": []
+    },
+    {
+      "id": "saffire-ii",
+      "displayName": "SAFFIRE-II",
+      "psiId": "PSI-99",
+      "sourcePaths": [
+        "src/data/nasa/raw/saffire-ii/PSI-99_Experimental table_SAFFIRE-2.csv",
+        "data/nasa/manifests/psi-99-saffire-ii.json",
+        "psidata/manifests/PSI-99.json",
+        "Gravifier_research/BASS-II/GRAVIFIRE_SAFFIRE-II_PSI-99_Deep_Research.md"
+      ],
+      "runtimeRecords": 9,
+      "rejectedRecords": 0,
+      "status": "FULLY_INGESTED",
+      "evidenceTypes": [
+        "EXPERIMENTAL_RUN"
+      ],
+      "limitations": [
+        "SOURCE_VALUE_FORMAT_AMBIGUITY: Sample 2-4 thickness was preserved without numeric normalization.",
+        "SOURCE_VALUE_FORMAT_AMBIGUITY: Sample 2-5 thickness was preserved without numeric normalization.",
+        "SOURCE_SCHEMA_UNIT_MISMATCH: Sample 2-5 has '?-g Spread Length' values with rate units.",
+        "SOURCE_VALUE_FORMAT_AMBIGUITY: Sample 2-6 thickness was preserved without numeric normalization.",
+        "SOURCE_SCHEMA_UNIT_MISMATCH: Sample 2-6 has '?-g Spread Length' values with rate units."
+      ]
+    },
+    {
+      "id": "saffire-iii",
+      "displayName": "SAFFIRE-III",
+      "psiId": "PSI-100",
+      "sourcePaths": [
+        "src/data/nasa/raw/saffire-iii/PSI-100_Experimental table_SAFFIRE-3.csv",
+        "data/nasa/manifests/psi-100-saffire-iii.json"
+      ],
+      "runtimeRecords": 2,
+      "rejectedRecords": 0,
+      "status": "FULLY_INGESTED",
+      "evidenceTypes": [
+        "EXPERIMENTAL_RUN"
+      ],
+      "limitations": []
+    },
+    {
+      "id": "same-r",
+      "displayName": "SAME-R",
+      "psiId": "PSI-101",
+      "sourcePaths": [
+        "src/data/nasa/raw/same-r/PSI-101_Experimental table_SAME-R.csv",
+        "data/nasa/manifests/psi-101-same-r.json"
+      ],
+      "runtimeRecords": 109,
+      "rejectedRecords": 0,
+      "status": "FULLY_INGESTED",
+      "evidenceTypes": [
+        "EXPERIMENTAL_RUN"
+      ],
+      "limitations": []
+    },
+    {
+      "id": "same",
+      "displayName": "SAME",
+      "psiId": "PSI-102",
+      "sourcePaths": [
+        "src/data/nasa/raw/same/PSI-102_Experimental table_SAME.csv",
+        "data/nasa/manifests/psi-102-same.json",
+        "data/nasa/manifests/psi-102-same.processed.json"
+      ],
+      "runtimeRecords": 8,
+      "rejectedRecords": 0,
+      "status": "FULLY_INGESTED",
+      "evidenceTypes": [
+        "EXPERIMENTAL_RUN"
+      ],
+      "limitations": [
+        "Source/version discrepancy recorded: LOCAL_SOURCE_RECORDS=8; CURRENT_WEB_TABLE_DISPLAY=9. The local CSV remains authoritative for this build until manually reconciled."
+      ]
+    },
+    {
+      "id": "spice",
+      "displayName": "SPICE",
+      "psiId": "PSI-107",
+      "sourcePaths": [
+        "src/data/nasa/raw/spice/PSI-107_Experimental table_Spice.csv",
+        "data/nasa/manifests/psi-107-spice.json"
+      ],
+      "runtimeRecords": 469,
+      "rejectedRecords": 0,
+      "status": "FULLY_INGESTED",
+      "evidenceTypes": [
+        "OPERATING_CONDITION_OBSERVATION"
+      ],
+      "limitations": []
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "pack_name": "GRAVIFIRE PlayCanvas Prototype Asset Pack",
+  "created_by": "OpenAI-generated procedural geometry using trimesh",
+  "created_at": "2026-10-06",
+  "license": "CC0-style project-owned/generated assets; no third-party geometry included in generated files",
+  "units": "meters, +Y up",
+  "generated_files": [
+    {
+      "file": "gravifire_analysis_wall.glb",
+      "bytes": 4596,
+      "bounds_min": [
+        -2.6,
+        0.2,
+        -0.375
+      ],
+      "bounds_max": [
+        2.6,
+        2.5,
+        0.125
+      ]
+    },
+    {
+      "file": "gravifire_bulkhead_door.glb",
+      "bytes": 5228,
+      "bounds_min": [
+        -1.29,
+        0.0,
+        -0.23
+      ],
+      "bounds_max": [
+        1.52,
+        2.82,
+        0.225
+      ]
+    },
+    {
+      "file": "gravifire_corridor_4m.glb",
+      "bytes": 8860,
+      "bounds_min": [
+        -1.59,
+        -0.16,
+        -2.0
+      ],
+      "bounds_max": [
+        1.59,
+        2.8,
+        2.0
+      ]
+    },
+    {
+      "file": "gravifire_equipment_rack.glb",
+      "bytes": 11400,
+      "bounds_min": [
+        -0.4,
+        0.0,
+        -0.415
+      ],
+      "bounds_max": [
+        0.4,
+        1.9,
+        0.325
+      ]
+    },
+    {
+      "file": "gravifire_lab_shell_8x8.glb",
+      "bytes": 33448,
+      "bounds_min": [
+        -4.13,
+        -0.195,
+        -4.13
+      ],
+      "bounds_max": [
+        4.13,
+        3.125,
+        4.13
+      ]
+    },
+    {
+      "file": "gravifire_science_console.glb",
+      "bytes": 5300,
+      "bounds_min": [
+        -0.675,
+        0.0,
+        -0.36
+      ],
+      "bounds_max": [
+        0.675,
+        1.489,
+        0.36
+      ]
+    },
+    {
+      "file": "gravifire_sibal_sample_station.glb",
+      "bytes": 7652,
+      "bounds_min": [
+        -0.8,
+        0.0,
+        -0.405
+      ],
+      "bounds_max": [
+        0.8,
+        2.145,
+        0.4
+      ]
+    }
+  ],
+  "verified_external_candidates": [
+    {
+      "name": "Spaceship Interior Deck Kit starter scene",
+      "url": "https://cdn.3dassets.dev/assets/12597/v1/model.glb",
+      "page": "https://3dassets.dev/packs/spaceship-deck-kit",
+      "license": "CC0 1.0",
+      "notes": "49 coherent modular spaceship-interior assets; 874.8 KB starter scene; metres +Y up; AI-generated source pack."
+    },
+    {
+      "name": "Astronaut Waving",
+      "url": "https://cdn.3dassets.dev/assets/39244/v1/model.glb",
+      "page": "https://3dassets.dev/assets/solar-system-and-astronauts-astronaut-waving-0f97b8c2",
+      "license": "CC0 1.0",
+      "notes": "2.087 m rigged astronaut, 18.7k tris, one wave animation; AI-generated source asset."
+    },
+    {
+      "name": "Research laboratory module",
+      "url": "https://cdn.3dassets.dev/assets/24531/v1/model.glb",
+      "page": "https://3dassets.dev/assets/orbital-station-and-docking-bays-laboratory-module-b2b36023",
+      "license": "CC0 1.0",
+      "notes": "4.769 x 4.974 x 11.202 m lab module, ~4.2k tris."
+    },
+    {
+      "name": "Gallery Door Pair",
+      "url": "https://cdn.3dassets.dev/assets/39270/v1/model.glb",
+      "page": "https://3dassets.dev/assets/solar-system-and-astronauts-gallery-door-pair-4350b012",
+      "license": "CC0 1.0",
+      "notes": "2 x 2.4 m animated sliding door pair; open/close clips."
+    }
+  ]
+}

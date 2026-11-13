@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "provenance": "M0 material derivatives of existing project-owned generated assets; no third-party geometry, NASA records or collision changes",
+  "operations": [
+    "binary geometry and node transforms preserved",
+    "restrained graphite material palette"
+  ],
+  "files": [
+    {
+      "file": "gravifire_corridor_4m.glb",
+      "source": "../m1/gravifire_corridor_4m.glb",
+      "sourceSha256": "e3f40f5a2e2d912beb57e372d4d85c642f84e718160c53aad36cfbeb842dbbee",
+      "outputSha256": "ec2657a603f0e5eba50613a4408e45846ff11b5da80457c64f25771aaffee935",
+      "sourceBytes": 8860,
+      "outputBytes": 8816
+    },
+    {
+      "file": "gravifire_lab_shell_8x8.glb",
+      "source": "../m1/gravifire_lab_shell_8x8.glb",
+      "sourceSha256": "3ce9deebc97a7b087ac6559c1bb1dd08d5445d7e1febb298ed18f4f8cf5d26ab",
+      "outputSha256": "f7b300c59f93e066cd03fe527552a937166c47489bca9bc65222656bed4568d7",
+      "sourceBytes": 33448,
+      "outputBytes": 33172
+    },
+    {
+      "file": "gravifire_bulkhead_door.glb",
+      "source": "../m1/gravifire_bulkhead_door.glb",
+      "sourceSha256": "f5a4c3f98b8c4f83a9ba0d3f1389476d718f977095fe732b4b4cce52ab1d4058",
+      "outputSha256": "a1bb48a19876bf5484eed1855eadc2a18b81674bd13141ecb020587ea15dd588",
+      "sourceBytes": 5228,
+      "outputBytes": 5248
+    },
+    {
+      "file": "gravifire_equipment_rack.glb",
+      "source": "../m1/gravifire_equipment_rack.glb",
+      "sourceSha256": "c1f8cedc93c01a92e285760e652c168780edb98dd2dfc21c2a5312905d56aa9b",
+      "outputSha256": "c762de8987dcb8527f7a6008087c48218c5d9bdf5c64d3c3b554a7efe76436d6",
+      "sourceBytes": 11400,
+      "outputBytes": 11420
+    },
+    {
+      "file": "gravifire_science_console.glb",
+      "source": "../m1/gravifire_science_console.glb",
+      "sourceSha256": "850d048b4bbbe893841113fe1faf3556e6514f4159c4c8f66c9c4de74b01b012",
+      "outputSha256": "0ba08724efdc162153eac83c657b85a4358e2b388e4109bfe145769eb0c0dacd",
+      "sourceBytes": 5300,
+      "outputBytes": 5280
+    },
+    {
+      "file": "gravifire_analysis_wall.glb",
+      "source": "../m1/gravifire_analysis_wall.glb",
+      "sourceSha256": "15715189564e6072761dd32b56092001f4ac565b3d55cc28d448113e35e211c8",
+      "outputSha256": "713f380acdea51ccf37a11c7ebc16b0d29138370e4d21020a903508d72a8ec2f",
+      "sourceBytes": 4596,
+      "outputBytes": 4620
+    }
+  ]
+}
