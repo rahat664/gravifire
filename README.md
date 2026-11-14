@@ -12,6 +12,26 @@ Start with the [Science Dashboard](https://gravifire.vercel.app/dashboard), or e
 
 **Source code:** [github.com/rahat664/gravifire](https://github.com/rahat664/gravifire)
 
+## Screenshots
+
+### Science Dashboard
+
+Choose a mission context and fire-safety objective, then explore relevant NASA investigations and inspect their source records.
+
+![Science Dashboard showing mission settings, ranked NASA investigations and BASS-II evidence](docs/screenshots/dashboard.png)
+
+### Mission Control
+
+Explore the fictional 2038 campaign, with mission progression and explicit boundaries between the story and NASA evidence.
+
+![Mission Control showing the campaign priority and four mission cards](docs/screenshots/mission-control.png)
+
+### Source evidence and provenance
+
+Inspect the BASS-II B1 source record, including reported conditions, unknown outcomes, original media and provenance.
+
+![BASS-II B1 record showing test identity, evidence limits, NASA video and source provenance](docs/screenshots/evidence-dna.png)
+
 ## The problem GRAVIFIRE solves
 
 Finding a relevant combustion experiment is only the first step. A researcher or student also needs to know which material was tested, under what gravity, oxygen, pressure and airflow conditions, what was actually measured, and where the original observation came from.
