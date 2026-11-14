@@ -1,12 +1,26 @@
-# AI Usage Declaration
+# Super Intelligence (SI) / AI Usage Declaration
 
 - **Project:** GRAVIFIRE
 - **Team:** NeuraVesta
-- **Date:** November 13, 2026
+- **Date:** November 14, 2026
 
 ## Purpose
 
 This document discloses AI assistance in GRAVIFIRE's development and explains how that assistance differs from the project's scientific evidence and runtime behavior. It describes the documented development workflow, rather than claiming a complete inventory of every tool used by every contributor.
+
+Here, **Super Intelligence (SI)** uses the NASA Space Apps Challenge terminology supplied for the submission, including chatbots, large language models, foundation models and image-generation tools. The documented SI tools used in this project are OpenAI ChatGPT and Codex.
+
+## Code and data: descriptive acknowledgment and metadata
+
+**SI-generated and SI-assisted code:** ChatGPT and Codex helped generate and revise application code in `src/`, data-ingestion and validation tooling in `scripts/psi/` and `Scripts/`, and testing and browser-automation code in `tests/`. This is a project-level acknowledgment; individual lines and files have not been exhaustively classified by authorship.
+
+**SI-assisted data processing:** SI helped write the code that ingests, normalizes, validates and presents NASA source records. The derived records under `data/nasa/` are produced by deterministic processing of attributed sources. NASA measurements and original source media are not claimed as SI-generated. SI-written research summaries and interpretations must remain distinguishable from source observations; unavailable measurements remain unknown.
+
+The accompanying machine-readable [SI usage metadata](SI_USAGE.json) records the tools, affected paths, generation and assistance roles, and data-provenance boundaries. It supplements existing source manifests and provenance records without changing their source identifiers or hashes. This declaration and the metadata were themselves generated with Codex assistance.
+
+## NASA branding and design restriction
+
+The supplied challenge rule prohibits SI-generated content from using, containing or modifying NASA branding or design elements, including NASA logos, flags and mission identifiers. This disclosure does not establish that every existing asset complies with that rule. Team review of submission assets remains necessary, including browser captures containing NASA-related identifiers. Scientific attribution and original-source provenance should remain accurate; they do not establish permission to incorporate protected design elements into generated content.
 
 ## AI tools and development assistance
 

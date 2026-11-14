@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "project": "GRAVIFIRE",
+  "team": "NeuraVesta",
+  "updated": "2026-11-14",
+  "terminology": "Super Intelligence (SI), as defined in the supplied NASA Space Apps Challenge submission rule",
+  "tools": ["OpenAI ChatGPT", "OpenAI Codex"],
+  "descriptive_declaration": "AI_declaration.md",
+  "scope": "Project-level disclosure of documented use; not an exhaustive per-file or per-line authorship inventory",
+  "code": {
+    "paths": ["src/", "scripts/psi/", "Scripts/", "tests/"],
+    "si_generation_and_assistance": [
+      "Generating and revising application code and scientific interfaces",
+      "Writing deterministic ingestion, normalization and validation tooling",
+      "Writing tests, browser automation and capture tooling",
+      "Debugging and code review"
+    ]
+  },
+  "data": {
+    "paths": ["data/nasa/", "psidata/", "Gravifier_research/"],
+    "si_assistance": "Research organization, summaries, interpretations and code for deterministic processing of attributed source records",
+    "original_measurements_si_generated": false,
+    "original_source_media_si_generated": false,
+    "derived_records": "Deterministic source transformations; SI assistance applies to processing code, not fabrication of observations",
+    "provenance": "Existing source manifests, identifiers, hashes and provenance records retain their original meaning",
+    "missing_measurements": "Remain unknown; SI output is not a replacement for experimental evidence"
+  },
+  "documentation_and_media": {
+    "paths": ["README.md", "AI_declaration.md", "SI_USAGE.json", "docs/", "submission-footage/"],
+    "si_assistance": "Drafting descriptive text and writing capture and editing automation",
+    "readme_screenshots": "Browser-rendered application captures using Codex-authored Playwright automation, with disclosure embedded in PNG metadata; no generative image synthesis"
+  },
+  "runtime": {
+    "ember": "Deterministic retrieval and structured answer composition; no external generative language model for scientific answers",
+    "ranking": "Deterministic application-defined scoring"
+  },
+  "branding": {
+    "supplied_rule": "SI-generated content may not use, contain or modify NASA branding or design elements, including logos, flags or mission identifiers",
+    "compliance_audit": "Not established by this disclosure; submission assets require team review"
+  },
+  "metadata_authorship": "Generated with OpenAI Codex assistance"
+}

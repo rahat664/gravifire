@@ -175,7 +175,7 @@ The core grounded assistant uses local evidence and does not need an external mo
 
 NASA datasets and third-party assets retain their original terms and attribution. See [asset credits](docs/ASSET_CREDITS.md). Local credentials, dependencies, build output and large media exports are excluded from version control.
 
-For disclosure of AI-assisted development and the current assistant's runtime behavior, see [AI Usage Declaration](AI_declaration.md).
+**Super Intelligence (SI) use:** OpenAI ChatGPT and Codex helped generate and revise application code, ingestion and validation tools, tests, documentation and capture automation. SI-assisted tooling processes attributed NASA source data deterministically; original NASA measurements and source media are not claimed as SI-generated. See the [SI / AI Usage Declaration](AI_declaration.md) for where and how these tools were used, and [SI usage metadata](SI_USAGE.json) for the machine-readable code and data acknowledgment.
 
 ---
 
