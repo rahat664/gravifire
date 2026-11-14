@@ -6,6 +6,10 @@ GRAVIFIRE is Team NeuraVesta's NASA Space Apps Challenge 2026 project: an intera
 
 It connects a scientific dashboard with a fictional spacecraft campaign aboard **ISV Vesta in 2038**. The campaign provides an engaging learning setting; NASA source records provide the scientific evidence. The two are explicitly distinguished throughout the application.
 
+The mission-research concept is practical: use existing combustion evidence to investigate fire prevention, detection and suppression questions before drawing conclusions about a proposed exploration environment. A working browser application connects mission settings with inspectable NASA records, reproducible rankings and explicit evidence gaps.
+
+Read the [project details](docs/PROJECT_DETAILS.md) for the submission narrative covering the mission concept, NASA data, intended impact, technology and design considerations.
+
 **Live website:** [gravifire.vercel.app](https://gravifire.vercel.app)
 
 Start with the [Science Dashboard](https://gravifire.vercel.app/dashboard), or enter [Mission Control](https://gravifire.vercel.app/mission-control).
@@ -74,6 +78,8 @@ The catalog includes the following investigation families. Coverage differs by f
 
 The application also retains other cataloged research and advanced explorers. For exact coverage, provenance and unresolved source discrepancies, see the [dataset coverage report](docs/gravifire-2026/03-dataset-coverage.md) and [expanded coverage report](docs/gravifire-2026/08-expanded-coverage.md).
 
+Deterministic ingestion and validation tools organize attributed source information into inspectable records. Ranking explanations, condition-comparison views and provenance displays help users identify both useful connections and missing evidence. A configuration range does not establish a measured outcome, and a matching oxygen concentration does not resolve a gravity mismatch. These distinctions turn data exploration into more precise questions for future experiments.
+
 Original investigation references link to [NASA's Physical Sciences Informatics repository](https://psi.nasa.gov/). Research documents and source records remain attributable to their original providers.
 
 ## From a user's perspective
@@ -90,6 +96,8 @@ You do not need to start by knowing a NASA experiment identifier.
 8. Read the limitations and consider the next experiment needed to answer the remaining question.
 
 For an interactive introduction, enter **Mission Control**. The M0, M1, M4 and M6 experiences connect fictional operational situations with real evidence inspection, a persistent Dossier and explicit scientific boundaries.
+
+The campaign makes source evaluation and uncertainty part of the interaction: players investigate operational questions, inspect evidence and build a dossier as they progress. This is an educational prototype for evidence-informed mission reasoning. Its creative contribution is connecting narrative decisions with the scientific limits of the available records.
 
 ### A concrete example
 
@@ -109,6 +117,10 @@ This illustrates the product's purpose: help a person understand both the useful
 | Science communicators and reviewers | Inspect the sources behind a demonstration and distinguish a measured result from an interpretation or hypothetical scenario. |
 
 The intended contribution is better-informed research and learning: fewer unsupported extrapolations, clearer questions and more transparent evidence. These are product goals, not measured claims of reduced fire incidents or operational safety improvements.
+
+For future exploration, this workflow can support early discussions about materials, atmospheres and experiments needed before stronger conclusions are possible. The same habits of source traceability and careful interpretation are valuable for fire-safety education on Earth.
+
+The team prioritized scientific accuracy, accessible presentation, reproducible ranking and clear distinctions between observations, interpretations and fiction. Missing measurements and the limits of transferring microgravity findings to lunar or Martian conditions shaped both the scientific interfaces and the campaign.
 
 ## Scientific boundaries
 
@@ -140,6 +152,8 @@ See the [scientific acceptance assessment](docs/gravifire-2026/16-scientific-acc
 ## Run locally
 
 The application uses **Next.js 16, TypeScript and pnpm**, with React Three Fiber/Rapier and PlayCanvas used by different game implementations. The active mission routes should not be assumed to share one rendering engine.
+
+React and Tailwind CSS support the application interface, while Three.js underpins the React Three Fiber experiences. Development uses Git/GitHub, Vitest, Playwright and accessibility checks; the live website is hosted on Vercel. The project is software-based and requires no custom hardware. EMBER uses deterministic retrieval and structured response composition, and investigation rankings use inspectable application-defined scoring.
 
 Use a compatible Node.js installation and the pnpm version declared in `package.json`.
 
