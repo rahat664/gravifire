@@ -14,6 +14,8 @@ Start with the [Science Dashboard](https://gravifire.vercel.app/dashboard), or e
 
 ## Screenshots
 
+These application screenshots were captured with Playwright/Chromium using automation written and run by OpenAI Codex (AI assistance). Codex also drafted the descriptions below. The images show the running application; their pixels were rendered by the browser, not synthesized by an image-generation model. Each PNG includes this disclosure in its embedded metadata. See the [AI Usage Declaration](AI_declaration.md).
+
 ### Science Dashboard
 
 Choose a mission context and fire-safety objective, then explore relevant NASA investigations and inspect their source records.
