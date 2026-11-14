@@ -1,6 +1,18 @@
+<div align="center">
+
 # GRAVIFIRE
 
 **NASA combustion evidence, made understandable and traceable.**
+
+Explore the science. Step aboard ISV Vesta. Follow the evidence.
+
+**[Launch the app](https://gravifire.vercel.app)** &nbsp; · &nbsp; **[Science Dashboard](https://gravifire.vercel.app/dashboard)** &nbsp; · &nbsp; **[Mission Control](https://gravifire.vercel.app/mission-control)**
+
+NASA Space Apps Challenge 2026 · Team NeuraVesta
+
+</div>
+
+---
 
 GRAVIFIRE is Team NeuraVesta's NASA Space Apps Challenge 2026 project: an interactive research and learning platform that helps people explore NASA combustion investigations, rank relevant research, and understand where experimental evidence applies, and where it stops.
 
@@ -10,33 +22,57 @@ The mission-research concept is practical: use existing combustion evidence to i
 
 Read the [project details](docs/PROJECT_DETAILS.md) for the submission narrative covering the mission concept, NASA data, intended impact, technology and design considerations.
 
-**Live website:** [gravifire.vercel.app](https://gravifire.vercel.app)
+**Jump to:** [Gameplay](#aboard-isv-vesta) · [Science workspace](#the-science-workspace) · [NASA data](#nasa-research-represented) · [Impact](#how-gravifire-helps-people) · [Run locally](#run-locally) · [SI disclosure](AI_declaration.md)
 
-Start with the [Science Dashboard](https://gravifire.vercel.app/dashboard), or enter [Mission Control](https://gravifire.vercel.app/mission-control).
+| Explore the evidence | Experience the mission | Trace every claim |
+|---|---|---|
+| Select a mission context, discover investigations and compare conditions. | Investigate fictional spacecraft scenarios through interactive 3D missions. | Inspect source records, citations, unknowns and evidence provenance. |
 
-**Source code:** [github.com/rahat664/gravifire](https://github.com/rahat664/gravifire)
+## Aboard ISV Vesta
 
-## Screenshots
+**A fictional spacecraft. Real evidence to investigate.** Mission Control connects a 2038 campaign with NASA research through exploration, sample inspection and an evidence dossier.
 
-These application screenshots were captured with Playwright/Chromium using automation written and run by OpenAI Codex (AI assistance). Codex also drafted the descriptions below. The images show the running application; their pixels were rendered by the browser, not synthesized by an image-generation model. Each PNG includes this disclosure in its embedded metadata. See the [AI Usage Declaration](AI_declaration.md).
+### M0 · Two Seconds of Smoke
 
-### Science Dashboard
+Enter the incident bay and investigate a fictional smoke event. The mission asks what the archive can actually answer and makes missing evidence part of the experience.
+
+![M0 gameplay showing an astronaut investigating the fictional spacecraft incident bay](docs/screenshots/game-m0.png)
+
+<table>
+  <tr>
+    <td width="50%"><img src="docs/screenshots/game-m1.png" alt="M1 gameplay showing an astronaut at the SIBAL sample inspection station" width="100%" /></td>
+    <td width="50%"><img src="docs/screenshots/game-m4.png" alt="M4 gameplay showing an astronaut inspecting the silicone sample station" width="100%" /></td>
+  </tr>
+  <tr>
+    <td><strong>M1 · SIBAL: The Standard</strong><br />Inspect the sample and explore the evidence behind a mission question.</td>
+    <td><strong>M4 · Silicone: The Gasket Paradox</strong><br />Investigate material evidence and the limits of extrapolation.</td>
+  </tr>
+</table>
+
+> Gameplay images are actual browser captures in review mode, which opens selected mission states for inspection. They do not demonstrate completed campaign progression. Scenes and visual fire effects are fictional; source records retain their scientific scope.
+
+**[Enter Mission Control →](https://gravifire.vercel.app/mission-control)**
+
+## The science workspace
 
 Choose a mission context and fire-safety objective, then explore relevant NASA investigations and inspect their source records.
 
 ![Science Dashboard showing mission settings, ranked NASA investigations and BASS-II evidence](docs/screenshots/dashboard.png)
 
-### Mission Control
+<details>
+<summary><strong>Explore Mission Control and source provenance</strong></summary>
 
-Explore the fictional 2038 campaign, with mission progression and explicit boundaries between the story and NASA evidence.
+**Mission Control** — follow the fictional campaign's mission queue and evidence boundaries.
 
 ![Mission Control showing the campaign priority and four mission cards](docs/screenshots/mission-control.png)
 
-### Source evidence and provenance
-
-Inspect the BASS-II B1 source record, including reported conditions, unknown outcomes, original media and provenance.
+**Source evidence and provenance** — inspect the BASS-II B1 source record, reported conditions, unknown outcomes, original media and source identifiers.
 
 ![BASS-II B1 record showing test identity, evidence limits, NASA video and source provenance](docs/screenshots/evidence-dna.png)
+
+</details>
+
+*Screenshot production used Playwright/Chromium automation written and run by OpenAI Codex (Super Intelligence / AI assistance). Codex also drafted the descriptions. Images are browser-rendered captures, with no generative image synthesis. Each PNG embeds disclosure metadata; [capture metadata](docs/screenshots/capture-metadata.json) records the gameplay routes and review mode. See the [SI / AI Usage Declaration](AI_declaration.md).*
 
 ## The problem GRAVIFIRE solves
 

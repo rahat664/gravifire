@@ -1,0 +1,53 @@
+{
+  "captured_on": "2026-11-14",
+  "source": "Local running GRAVIFIRE application",
+  "software": [
+    "Playwright",
+    "Chromium (Chrome channel)"
+  ],
+  "si_tools": [
+    "OpenAI Codex"
+  ],
+  "si_use": "Actual GRAVIFIRE browser capture in review mode using Playwright/Chromium automation written and run by OpenAI Codex (Super Intelligence / AI assistance). Descriptions drafted with Codex. Fictional gameplay; not NASA experimental footage. No generative image synthesis.",
+  "images": [
+    {
+      "file": "game-m0.png",
+      "route": "/mission-control/play/m0?review=1&stage=incident",
+      "mode": "review",
+      "viewport": {
+        "width": 1600,
+        "height": 900
+      },
+      "http_status": 200,
+      "page_errors": [],
+      "sha256": "b99ad548c645563324d45284373c256aa34bcf0139874ceb3cba51d6116dfc09",
+      "interaction": "Moved forward with W for 1200 ms after opening incident stage"
+    },
+    {
+      "file": "game-m1.png",
+      "route": "/mission-control/play/m1?review=1",
+      "mode": "review",
+      "viewport": {
+        "width": 1600,
+        "height": 900
+      },
+      "http_status": 200,
+      "page_errors": [],
+      "sha256": "635eb8bcbe0cbc53904c7489689c6741e66c4f43de5d7727e9fdc1faa6460c1d",
+      "interaction": "Initial review-mode sample inspection scene"
+    },
+    {
+      "file": "game-m4.png",
+      "route": "/mission-control/play/m4?review=1",
+      "mode": "review",
+      "viewport": {
+        "width": 1600,
+        "height": 900
+      },
+      "http_status": 200,
+      "page_errors": [],
+      "sha256": "52640f0a0305c052c058e838d80fd7dbd6f106cd5c44de88d32866e77236ffde",
+      "interaction": "Initial review-mode sample inspection scene"
+    }
+  ]
+}
